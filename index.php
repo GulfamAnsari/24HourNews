@@ -4,9 +4,9 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">	
 	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/24HourNews/bootstrap/css/bootstrap.min.css">
 	<!--Main Css -->
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="/24HourNews/style.css">
 	<!--Icons -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!--Non JavaScript Tag-->
@@ -58,7 +58,7 @@
 		<div class="collapse navbar-collapse" id="smallMenu" >
 			<ul class="nav navbar-nav navbar-left">
 				<li><a  class="navHeading" href="#"><i class="fa fa-home" style="padding-right:5px"></i>Top Stories</a></li>
-				<li><a  class="navHeading" href="WORLD/">world</a></li>
+				<li><a  class="navHeading" href="world/">world</a></li>
 				<li><a  class="navHeading" href="#">India</a></li>
 				<li><a  class="navHeading" href="#">City</a></li>
 				<li><a  class="navHeading" href="#">Technology</a></li>
@@ -105,8 +105,8 @@
 		||	JavaScript					||
 		---------------------------------->	
 		<!--Bootstrap jQuery library -->
-		<script src="bootstrap/jquery/jquery.min.js"></script>
+		<script src="/24HourNews/bootstrap/jquery/jquery.min.js"></script>
 		<!--Bootstrap JavaScript -->
-		<script src="bootstrap/js/bootstrap.min.js"></script>
+		<script src="/24HourNews/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>

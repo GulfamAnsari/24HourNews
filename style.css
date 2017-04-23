@@ -80,7 +80,7 @@
 /* Footer */
 .footer
 {
-	background-color:#3F4745;
+	background-color:#3C3D3C;
 	padding:10px 0px 10px 0px;
 }
 .footer div p
@@ -90,7 +90,7 @@
 }
 .footer div  span
 {
-	color:grey;
+	color:#B3BBB3;
 	padding-left:5px;
 }
 .footer input
@@ -98,6 +98,14 @@
 	border:none;
 	width:60%;
 	height:30px;
+}
+@media (max-width: 768px) 
+{
+	.footer .col-sm-4
+	{
+		text-align:center;
+		padding:20px;
+	}
 }
 
 
