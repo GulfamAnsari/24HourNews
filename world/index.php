@@ -16,6 +16,29 @@
 		Here are the <a href="http://www.enable-javascript.com/" target="_blank">
 		instructions how to enable JavaScript in your web browser</a>.
 	</noscript>
+	<style>
+	.mainBody
+	{
+		padding:50px;
+	}
+	#column
+	{
+		background-color:white;
+		padding:10px;
+		box-shadow:5px 0px 5px  #888888;
+		border:solid #f0ede9 10px;
+		height:500px;
+		width:350px;
+	}
+	@media (max-width: 768px) 
+	{
+		.mainBody
+		{
+			margin:70px;
+			padding:0px;
+		}
+	}
+	</style>
 
 </head>
 <body style="background-color: #f0ede9;">
@@ -71,7 +94,7 @@
 	</div>
 </div>
 <!----------Body---------- -->
-<div class="container mainBody" id="a1">
+<div class="container mainBody">
 	<?php
 	$xml=simplexml_load_file("http://indiatoday.intoday.in/rss/article.jsp?sid=36") or die("Error: Cannot create object");
 		foreach($xml->channel->item as $item) 
@@ -79,17 +102,7 @@
 		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><p class=\"para\">".$item->description."</p></div>";
 		} 	
 	?>
-	<style>
-	#column
-	{
-		background-color:white;
-		padding:10px;
-		box-shadow:5px 0px 5px  #888888;
-		border:solid #f0ede9 10px;
-		height:500px;
-		width:350px;
-	}
-	</style>
+
 	
 </div>
 <!----------Footer---------- -->
