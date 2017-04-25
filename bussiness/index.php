@@ -97,11 +97,11 @@
 <!----------Body---------- -->
 <div class="container mainBody">
 	<?php
-	$xml=simplexml_load_file("http://www1.cbn.com/app_feeds/rss/news/rss.php?section=world") or die("Error: Cannot create object");
+	$xml=simplexml_load_file("http://www.oneindia.com/rss/news-business-fb.xml") or die("Error: Cannot create object");
 		foreach($xml->channel->item as $item) 
 		{ 
-		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><img src=".$item->thumbnail." width=\"310\"></img><p class=\"para\">".$item->description."</p></div>";
-		} 	
+		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><img src=".$item->enclosure['url'] ." width=\"310\"></img><p class=\"para\">".$item->description."</p></div>";
+		} 		
 	?>
 
 	

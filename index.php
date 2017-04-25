@@ -16,6 +16,30 @@
 		Here are the <a href="http://www.enable-javascript.com/" target="_blank">
 		instructions how to enable JavaScript in your web browser</a>.
 	</noscript>
+	<style>
+	.mainBody
+	{
+		padding:50px;
+	}
+	#column
+	{
+		background-color:white;
+		padding:10px;
+		height:460px;
+		width:350px;
+		box-shadow:10px 10px 10px 15px #888888;
+		border:solid #f0ede9 10px;
+		overflow:auto;
+	}
+	@media (max-width: 768px) 
+	{
+		.mainBody
+		{
+			margin:70px;
+			padding:0px;
+		}
+	}
+	</style>
 
 </head>
 <body style="background-color: #f0ede9;">
@@ -57,20 +81,31 @@
 		</div>
 		<div class="collapse navbar-collapse" id="smallMenu" >
 			<ul class="nav navbar-nav navbar-left">
-				<li><a  class="navHeading" href="#"><i class="fa fa-home" style="padding-right:5px"></i>Top Stories</a></li>
-				<li><a  class="navHeading" href="world/">world</a></li>
-				<li><a  class="navHeading" href="#">India</a></li>
-				<li><a  class="navHeading" href="#">City</a></li>
-				<li><a  class="navHeading" href="#">Technology</a></li>
-				<li><a  class="navHeading" href="#">Sports</a></li>
-				<li><a  class="navHeading" href="#">Entertainment</a></li>
-				<li><a  class="navHeading" href="#">Bussiness</a></li>
-				<li><a  class="navHeading" href="#">Politics</a></li>
+				<li><a  class="navHeading" href="/24HourNews/"><i class="fa fa-home" style="padding-right:5px"></i>Top Stories</a></li>
+				<li><a  class="navHeading" href="/24HourNews/world/">world</a></li>
+				<li><a  class="navHeading" href="/24HourNews/india/">India</a></li>
+				<li><a  class="navHeading" href="/24HourNews/city/">City</a></li>
+				<li><a  class="navHeading" href="/24HourNews/technology/">Technology</a></li>
+				<li><a  class="navHeading" href="/24HourNews/sports/">Sports</a></li>
+				<li><a  class="navHeading" href="/24HourNews/entertainment/">Entertainment</a></li>
+				<li><a  class="navHeading" href="/24HourNews/economy/">Economy</a></li>
+				<li><a  class="navHeading" href="/24HourNews/politics/">Politics</a></li>
 			</ul>
 		</div>
 	</div>
 </div>
+<!----------Body---------- -->
+<div class="container mainBody">
+	<?php
+	$xml=simplexml_load_file("http://indiatoday.intoday.in/rss/article.jsp?sid=4") or die("Error: Cannot create object");
+		foreach($xml->channel->item as $item) 
+		{ 
+		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><p class=\"para\">".$item->description."</p></div>";
+		} 	
+	?>
 
+	
+</div>
 <!----------Footer---------- -->
 <div class="footer " >
 	<div class="container">
@@ -100,13 +135,83 @@
 	</div>
 </div >
 
+
+
 	
-		<!--------------------------------
-		||	JavaScript					||
-		---------------------------------->	
-		<!--Bootstrap jQuery library -->
-		<script src="/24HourNews/bootstrap/jquery/jquery.min.js"></script>
-		<!--Bootstrap JavaScript -->
-		<script src="/24HourNews/bootstrap/js/bootstrap.min.js"></script>
+<!--------------------------------
+||	JavaScript					||
+---------------------------------->	
+<!--Bootstrap jQuery library -->
+<script src="/24HourNews/bootstrap/jquery/jquery.min.js"></script>
+<!--Bootstrap JavaScript -->
+<script src="/24HourNews/bootstrap/js/bootstrap.min.js"></script>
+<!--
+		<script>
+		
+		  var xhttp = new XMLHttpRequest();
+		  xhttp.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+			  var i;
+		  var xmlDoc = this.responseXML;
+		  var x = xmlDoc.getElementsByTagName("item");
+		  var arr= ["http://media1.s-nbcnews.com/i/newscms/2017_14/1956546/170406-world-syria-trump-rose-garden-0913_f4a4aa9002e0001281409949eb228328.jpg"
+		  ,"http://media2.s-nbcnews.com/i/newscms/2017_16/1921251/170303-sessions-0534_0_161946dd782c5884efbfb0db26a72cd7.jpg",
+		  "http://media1.s-nbcnews.com/i/newscms/2017_16/1973796/obit_erin_moran_65335-jpg-cde79_379d03749fa02ecd0d4b04b05b0064ea.jpg",
+		  "http://media2.s-nbcnews.com/i/newscms/2017_16/1973831/pencekangaroo_a2c4d35a4214ed58ec3902a58e13daab.jpg",
+		  "http://media4.s-nbcnews.com/i/newscms/2017_16/1972486/170421-marine-le-pen-rally-france-ew-1034a_aa4b377aedc310772dddf35a6186aa63.jpg",
+		  "http://media3.s-nbcnews.com/i/MSNBC/Components/Video/201704/2017-04-23T13-17-48-166Z--1280x720.jpg",
+		  "http://media3.s-nbcnews.com/i/newscms/2017_01/1776536/161031-capitol-senate-2245_ede32a8d6f1c975229585379459b248a.jpg",
+		  "http://media3.s-nbcnews.com/i/newscms/2017_16/1974156/170423-osce-car-explosion-1153a-rs_f8b1df96dc01f7bd3b668656a5fddd9a.JPG",
+		  "http://media1.s-nbcnews.com/i/newscms/2017_16/1973821/election_18c611862afb8eed43f6b4cb0b8e174e.jpg",
+		  "http://media4.s-nbcnews.com/i/newscms/2016_34/1685836/airlines_3257e1beb1c66c6ad600a40c96531def.jpg",
+		  "http://media2.s-nbcnews.com/i/newscms/2017_16/1973581/170422-cecilia-alvear-1138-sg_68a81f1dc678ffaa7ca2797a1f66acf1.jpg",
+		  "http://media2.s-nbcnews.com/i/newscms/2017_12/1942381/jcc-ejo-032317_3e076b1e8e8864bfcb39e592dad803dd.jpg",
+		  "http://media3.s-nbcnews.com/i/newscms/2017_15/1966171/170415-world-northkorea-soldiers-parade-0704_9cb003b266a34bb5012e02e681457dea.jpg",
+		  "http://media3.s-nbcnews.com/i/newscms/2017_16/1973961/170423-hash-browns-943a-rs_copy_ed98d73d198c01f74a8b9cf9f79d3c0b.jpg",
+		  "http://media4.s-nbcnews.com/i/newscms/2017_16/1973711/170422-science-march-maggie-3-539p-rs_cb1ac093eb9f19482965a725fc9a186f.jpg",
+		  "http://media2.s-nbcnews.com/i/newscms/2017_16/1970946/170420-jaguar-los-angeles-ew-935a_6d1dca4537d6d268e0e3a48a9afc03cb.jpg",
+		  "http://media1.s-nbcnews.com/i/newscms/2017_15/1966161/170415-world-northkorea-missile-submarine-0701_f5a84a50a9dc79e896b9febee485b307.jpg",
+		  "http://media1.s-nbcnews.com/i/newscms/2017_15/1966871/ss-170416-tax-day-protest-2-423p-rs_2035538aacd696abafe52451c67f6f11.JPG"];
+		  for (i = 0; i <x.length; i++) { 
+		   
+		   var title= x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+		   var des= x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue;
+		   
+		   
+		  var a= document.createElement("div");
+			a.id = 'column';
+			a.className = 'col-lg-4';
+			
+			var image=document.createElement("img");
+			image.src=arr[i];
+			image.style.height='250px';
+			image.className='img img-responsive';
+			
+		var head= document.createElement("h1");  
+		var para= document.createElement("p");       
+		  var t = document.createTextNode(title);    
+		  var d = document.createTextNode(des); 
+		  head.appendChild(t); 
+			head.className='heading';
+			para.appendChild(d);    
+			para.className='para';
+			a.appendChild(image); 
+		a.appendChild(head); 
+			
+		a.appendChild(para);  	
+		  document.getElementById("a1").appendChild(a);      
+
+		  
+		  }
+		  
+			}
+		  };
+		  xhttp.open("GET", "cd_catalog.xml", true);
+		  xhttp.send();
+		
+
+		</script>
+-->
+		
 </body>
 </html>
