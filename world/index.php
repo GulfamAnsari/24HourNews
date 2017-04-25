@@ -25,10 +25,10 @@
 	{
 		background-color:white;
 		padding:10px;
-		box-shadow:5px 0px 5px  #888888;
-		border:solid #f0ede9 10px;
 		height:500px;
 		width:350px;
+		box-shadow:10px 10px 10px 15px #888888;
+		border:solid #f0ede9 10px;
 	}
 	@media (max-width: 768px) 
 	{
