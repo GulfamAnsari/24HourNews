@@ -1,4 +1,4 @@
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <title>NBC News Top Stories</title>
@@ -6,7 +6,7 @@
 <description>NBC News Top Stories</description>
 <language>en-US</language>
 <copyright>© 2017 NBCNews.com</copyright>
-<lastBuildDate>Sun, 23 Apr 2017 13:25:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Apr 2017 09:47:00 GMT</lastBuildDate>
 <image>
 <url>
 http://media1.s-nbcnews.com/i/MSNBC/Components/Media/NBC-promo-graphics/nbc-news.png
@@ -15,662 +15,507 @@ http://media1.s-nbcnews.com/i/MSNBC/Components/Media/NBC-promo-graphics/nbc-news
 <link>http://www.nbcnews.com/</link>
 </image>
 <item>
-	<guid isPermaLink="false">
-	http://www.nbcnews.com/politics/donald-trump/public-gives-trump-low-marks-first-100-days-nbc-news-n749756?cid=public-rss_20170423
-	</guid>
-	<title>
-	Majority Think Trump Off to Fair-Poor Start: NBC News/WSJ Poll
-	</title>
-	<pubDate>Sun, 23 Apr 2017 13:25:00 GMT</pubDate>
-	<link>
-	http://www.nbcnews.com/politics/donald-trump/public-gives-trump-low-marks-first-100-days-nbc-news-n749756?cid=public-rss_20170423
-	</link>
-	<dc:creator>Mark Murray</dc:creator>
-	<description>
-	Sixty-four percent of Americans say President Donald Trump is off to a poor or fair start in his first 100 days while 35 percent say the beginning of his presidency has been good or great, according to a new NBC News/Wall Street Journal poll. Trump's approval rating stands at 40 percent, the poll showed, in what is the lowest for any president at this point in office.
-	</description>
-	<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_14/1956546/170406-world-syria-trump-rose-garden-0913_f4a4aa9002e0001281409949eb228328.jpg" medium="image" height="2448" width="3500">
-	<media:credit>YURI GRIPAS</media:credit>
-	<media:text type="plain">
-	Image: Trump surprised many with his strong condemnation of the suspect gas attack in Syria, and is weighing a response
-	</media:text>
-	<media:description type="plain">
-	Trump surprised many with his strong comments on Syria.
-	</media:description>
-	</media:content>
-	<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1973691/looking_at_the_first_100_days_trump_is_off_to_a-_great_start_good_start_only_a_fair_start_poor_start_chartbuilder_dfd3f13ac15560648b4c83ebd0f20106.png" medium="image" height="728" width="1280">
-	<media:credit>NBC News</media:credit>
-	<media:text type="plain"/>
-	<media:description type="plain"/>
-	</media:content>
-	<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1973686/president_trumps_approval_rating_then_and_now_april_2017_february_2017_chartbuilder_2_a247c7923701bacb03beb7616b3a9ebe.png" medium="image" height="312" width="1280">
-	<media:credit>NBC News</media:credit>
-	<media:text type="plain"/>
-	<media:description type="plain"/>
-	</media:content>
-	<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973681/trump_net_approval_rating_by_group_net_approval_chartbuilder_ab1e9c6b5fc986c089e22aeaf20d30f1.png" medium="image" height="988" width="1280">
-	<media:credit>NBC News</media:credit>
-	<media:text type="plain"/>
-	<media:description type="plain"/>
-	</media:content>
+<guid isPermaLink="false">
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/100-days-how-trump-s-rotten-approval-ratings-compare-past-n750096?cid=public-rss_20170425
+</guid>
+<title>Trump Is Historically Unpopular. Will It Matter?</title>
+<pubDate>Tue, 25 Apr 2017 09:47:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/100-days-how-trump-s-rotten-approval-ratings-compare-past-n750096?cid=public-rss_20170425
+</link>
+<dc:creator>Sam Petulla</dc:creator>
+<description>
+No president has been this unpopular, this soon. But Trump's poor approval rating may not keep him from a successful presidency just yet.
+</description>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1976336/trump2_f88f7c3b27a626cc3c46245e53cf793f.jpg" medium="image" height="3840" width="5760">
+<media:credit>John Makely</media:credit>
+<media:text type="plain">Image:</media:text>
+<media:description type="plain">
+January 20, 2017 - The Inauguration of the 45th President of the United States, Donald J. Trump at the U.S. Capitol building. President Barack Obama and Donald Trump also - Michelle Obama, Joe Biden (JOHN MAKELY/ NBC News)
+</media:description>
+</media:content>
 </item>
 <item>
 <guid isPermaLink="false">
-http://www.nbcnews.com/news/us-news/ag-sessions-hawaii-remark-nobody-has-sense-humor-anymore-n749846?cid=public-rss_20170423
+http://www.nbcnews.com/politics/white-house/sebastian-gorka-trump-adviser-linked-hungarian-right-wing-group-abruptly-n750451?cid=public-rss_20170425
 </guid>
 <title>
-AG Sessions on Hawaii Remark: 'Nobody Has a Sense of Humor Anymore'
+Trump Adviser Gorka Abruptly Leaves 'Fake News' Panel
 </title>
-<pubDate>Sun, 23 Apr 2017 15:09:00 GMT</pubDate>
+<pubDate>Tue, 25 Apr 2017 00:08:00 GMT</pubDate>
 <link>
-http://www.nbcnews.com/news/us-news/ag-sessions-hawaii-remark-nobody-has-sense-humor-anymore-n749846?cid=public-rss_20170423
+http://www.nbcnews.com/politics/white-house/sebastian-gorka-trump-adviser-linked-hungarian-right-wing-group-abruptly-n750451?cid=public-rss_20170425
 </link>
-<dc:creator>Associated Press</dc:creator>
+<dc:creator>Tim Stelloh</dc:creator>
 <description>
-Last week, Sessions criticized a federal judge's ruling in Hawaii that blocked the Trump administration's immigration ban.
+Gorka left a panel on so-called fake news at Georgetown University on Monday after he was questioned about his a far-right group with Nazi ties.
 </description>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1921251/170303-sessions-0534_0_161946dd782c5884efbfb0db26a72cd7.jpg" medium="image" height="2021" width="3000">
-<media:credit>Win McNamee</media:credit>
-<media:text type="plain">Image: Attorney General Jeff Sessions</media:text>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_17/1975821/170424-sebastian-gorka-counbter-terrorism-se-731p_7d4e8b8de15fc0379aebcadfba4b13bc.jpg" medium="image" height="1752" width="2500">
+<media:credit>Alex Wong</media:credit>
+<media:text type="plain">Image: Sebastian Gorka</media:text>
 <media:description type="plain">
-Attorney General Jeff Sessions answers questions during a press conference at the Department of Justice on Thursday.
+Sebastian Gorka speaks at the Conservative Political Action Conference at the Gaylord National Resort and Convention Center in National Harbor, Maryland on Feb. 24, 2017.
+</media:description>
+</media:content>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_14/1955636/170405-sebastian-gorka-mn-1330_df6cf0bbd1a1ca52874a53d3fa8a7f99.jpg" medium="image" height="757" width="755">
+<media:credit>Courtesy of LobeLog</media:credit>
+<media:text type="plain">Image: Sebastian Gorka</media:text>
+<media:description type="plain">
+Sebastian Gorka poses with his wife at an inaugural ball wearing a medal from the Hungarian Order of Heroes, Vitezi Rend.
 </media:description>
 </media:content>
 </item>
 <item>
 <guid isPermaLink="false">
-http://www.nbcnews.com/pop-culture/tv/erin-moran-who-played-joanie-happy-days-dead-56-n749791?cid=public-rss_20170423
+http://www.nbcnews.com/politics/white-house/ivanka-trump-germany-first-daughter-leaves-some-women-scratching-heads-n750556?cid=public-rss_20170425
 </guid>
 <title>
-Erin Moran, Who Played Joanie on 'Happy Days', Dead at 56
+Ivanka Trump's Role Leaves Women Scratching Their Heads in Germany
 </title>
-<pubDate>Sun, 23 Apr 2017 13:06:01 GMT</pubDate>
+<pubDate>Tue, 25 Apr 2017 11:42:00 GMT</pubDate>
 <link>
-http://www.nbcnews.com/pop-culture/tv/erin-moran-who-played-joanie-happy-days-dead-56-n749791?cid=public-rss_20170423
-</link>
-<dc:creator>Phil Helsel and Gemma DiCasimirro</dc:creator>
-<description>
-Erin Moran, who played Richie Cunningham's little sister in "Happy Days" was found dead Saturday, the Harrison County, Indiana, sheriff's office said.
-</description>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973796/obit_erin_moran_65335-jpg-cde79_379d03749fa02ecd0d4b04b05b0064ea.jpg" medium="image" height="3000" width="2261">
-<media:credit>Matt Sayles</media:credit>
-<media:text type="plain">Image: Erin Moran</media:text>
-<media:description type="plain">
-In this Sept. 24, 2008 file photo, Erin Moran is seen arriving at the Fox Reality Channel Really Awards in Los Angeles.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973811/gettyimages-82998865_d9b9cca5653b9fb44e2d30f0993f34c0.jpg" medium="image" height="3000" width="1994">
-<media:credit>Frazer Harrison</media:credit>
-<media:text type="plain">The Fox Reality Channel Really Awards - Arrivals</media:text>
-<media:description type="plain">
-In this Sept. 24, 2008 file photo, Erin Moran is seen at the Fox Reality Channel Really Awards in Hollywood, Calif.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973806/ap_17113040313146_06af450f5749538c4c3886481b6d08d9.jpg" medium="image" height="1794" width="1992">
-<media:credit>AP</media:credit>
-<media:text type="plain">
-Garry Marshall, Tom Bosley, Marion Ross, Erin Moran, Henry Winkler, Anson Williams
-</media:text>
-<media:description type="plain">
-In this July 12, 2001 file photo, Garry Marshall, from left, Tom Bosley, Marion Ross, Erin Moran, Henry Winkler, and Anson Williams of the television show "Happy Days," pose after Ross received a star on the Hollywood Walk of Fame.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/world/north-korea-threatens-australia-nuclear-strike-over-toeing-line-u-n749816?cid=public-rss_20170423
-</guid>
-<title>
-N. Korea Threatens Australia With Nuclear Strike Over 'Toeing Line' With U.S.
-</title>
-<pubDate>Sun, 23 Apr 2017 09:59:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/world/north-korea-threatens-australia-nuclear-strike-over-toeing-line-u-n749816?cid=public-rss_20170423
-</link>
-<dc:creator>Chloe Hubbard and Eric Baculinao</dc:creator>
-<description>
-A spokesman for the North Korean foreign ministry accused Australian Foreign Minister Julie Bishop of spouting "a string of rubbish against the DPRK (Democratic People's Republic of Korea)."
-</description>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1973831/pencekangaroo_a2c4d35a4214ed58ec3902a58e13daab.jpg" medium="image" height="3280" width="4928">
-<media:credit>PETER PARKS</media:credit>
-<media:text type="plain">Image: AUSTRALIA-US-DIPLOMACY</media:text>
-<media:description type="plain">
-Mike Pence pats a red kangaroo during a visit to Taronga Park Zoo in Sydney on April 23.
-</media:description>
-</media:content>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1973826/australia_pence_45590-jpg-6c80a_584f80a6b10e57f5d51d37946a468457.jpg" medium="image" height="2000" width="3000">
-<media:credit>David Moir</media:credit>
-<media:text type="plain">Image: Mike Pence, Julie Bishop</media:text>
-<media:description type="plain">
-Vice President Mike Pence and Australian Foreign Minister Julie Bishop pose for a photo during a visit to the Australian Museum in Sydney, Saturday, April 22.
-</media:description>
-</media:content>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1973831/pencekangaroo_a2c4d35a4214ed58ec3902a58e13daab.jpg" medium="image" height="3280" width="4928">
-<media:credit>PETER PARKS</media:credit>
-<media:text type="plain">Image: AUSTRALIA-US-DIPLOMACY</media:text>
-<media:description type="plain">
-Mike Pence pats a red kangaroo during a visit to Taronga Park Zoo in Sydney on April 23.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/world/french-elections-marine-le-pen-backed-quiet-army-women-n748136?cid=public-rss_20170423
-</guid>
-<title>
-French Elections: Marine Le Pen Backed By Quiet Army of Women
-</title>
-<pubDate>Fri, 21 Apr 2017 12:02:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/world/french-elections-marine-le-pen-backed-quiet-army-women-n748136?cid=public-rss_20170423
-</link>
-<dc:creator>Saphora Smith</dc:creator>
-<description>
-There is a quiet army on the march in France — female National Front supporters — who could well tip the balance of the election and send the hard-right party to the presidency.
-</description>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1972486/170421-marine-le-pen-rally-france-ew-1034a_aa4b377aedc310772dddf35a6186aa63.jpg" medium="image" height="1627" width="2441">
-<media:credit>Christophe Petit Tesson</media:credit>
-<media:text type="plain">Image: Marine Le Pen campaign rally in Paris</media:text>
-<media:description type="plain">
-Le Pen waves at the audience after speaking at a rally in Paris on April 17.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1970671/170419-jennifer-cr_fcc41990f0b58444dac32926e16ea840.jpg" medium="image" height="1669" width="2500">
-<media:credit>Saphora Smith</media:credit>
-<media:text type="plain">
-Image: Jennifer Troin, 29, is a sales assistant in a children's clothes store in Cogolin on April 13, 2017
-</media:text>
-<media:description type="plain">
-Jennifer Troin, 29, is a sales assistant in a children's clothes store in Cogolin, France on April 13, 2017.
-</media:description>
-</media:content>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1971291/170420-marine-le-pen-and-father-cr-1206_0ac6f7b25deedae1dc44fae416a1c2f2.jpg" medium="image" height="1728" width="2500">
-<media:credit>Laurent Cipriani</media:credit>
-<media:text type="plain">
-Image: French far-right Front National leader Marine Le Pen is kissed by her father Jean-Marie Le Pen
-</media:text>
-<media:description type="plain">
-Front National leader Marine Le Pen is kissed by her father Jean-Marie Le Pen after being re-elected as president of the party on Nov. 30, 2014.
-</media:description>
-</media:content>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1971486/670343132_5e5858bdbef8a429409bbd99b07991fd.jpg" medium="image" height="5568" width="3712">
-<media:credit>Jeff J Mitchell</media:credit>
-<media:text type="plain">Image: Marine Le Pen supporters cheer</media:text>
-<media:description type="plain">
-Marine Le Pen supporters cheer at a rally in the southern city of Marseille on Wednesday.
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1970666/170419-mayor2-cr_fcc41990f0b58444dac32926e16ea840.jpg" medium="image" height="1670" width="2500">
-<media:credit>Saphora Smith</media:credit>
-<media:text type="plain">Image: Mayor Marc Etienne Lansade sits at his desk</media:text>
-<media:description type="plain">
-Cogolin's mayor Marc Etienne Lansade sits at his desk.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/politics/congress/nancy-pelosi-border-wall-immoral-expensive-unwise-n749841?cid=public-rss_20170423
-</guid>
-<title>
-Nancy Pelosi: Border Wall Is 'Immoral, Expensive, Unwise'
-</title>
-<pubDate>Sun, 23 Apr 2017 15:52:31 GMT</pubDate>
-<link>
-http://www.nbcnews.com/politics/congress/nancy-pelosi-border-wall-immoral-expensive-unwise-n749841?cid=public-rss_20170423
-</link>
-<dc:creator>Kailani Koenig</dc:creator>
-<description>
-While a deal to fund the government this week won't necessarily include funding for the construction of a complete border wall, White House Chief of Staff Reince Priebus on Sunday said there will be "enough to get going" — even as House Minority Leader Nancy Pelosi called it "immoral."
-</description>
-<media:content url="http://media3.s-nbcnews.com/i/MSNBC/Components/Video/201704/2017-04-23T13-17-48-166Z--1280x720.jpg" medium="image">
-<media:credit/>
-<media:text type="plain"/>
-<media:description type="plain"/>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/politics/congress/poll-record-number-americans-say-government-should-do-more-n749766?cid=public-rss_20170423
-</guid>
-<title>
-Poll: Record Number of Americans Say Government 'Should Do More'
-</title>
-<pubDate>Sun, 23 Apr 2017 13:00:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/politics/congress/poll-record-number-americans-say-government-should-do-more-n749766?cid=public-rss_20170423
-</link>
-<dc:creator>Carrie Dann</dc:creator>
-<description>
-A record number of Americans now say that the government should do more — not less — in order to solve the nation's problems.
-</description>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_01/1776536/161031-capitol-senate-2245_ede32a8d6f1c975229585379459b248a.jpg" medium="image" height="1692" width="2500">
-<media:credit>Mark Wilson</media:credit>
-<media:text type="plain">
-Image: Congressional Majority In Question As Election Nears
-</media:text>
-<media:description type="plain">
-The Senate side of the US Capitol is shown October 11, 2016 in Washington D.C. House and Senate Republicans are in a close race with Democrats to keep control of both houses of Congress.
-</media:description>
-</media:content>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1973716/the_government_-_should_do_more_does_too_much_chartbuilder_800195e010b7f4bc602632da708b4bd4.png" medium="image" height="780" width="1280">
-<media:credit>NBC News</media:credit>
-<media:text type="plain"/>
-<media:description type="plain"/>
-</media:content>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1973721/net_difference-_govt_should_do_more_minus_doing_too_much_democrats_independents_republicans_chartbuilder_39f504150d04b495c12e8a17a7212ddd.png" medium="image" height="728" width="1280">
-<media:credit>NBC News</media:credit>
-<media:text type="plain"/>
-<media:description type="plain"/>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/world/american-member-security-watchdog-group-killed-ukraine-n749831?cid=public-rss_20170423
-</guid>
-<title>
-American Member of Watchdog Group Killed in Ukraine
-</title>
-<pubDate>Sun, 23 Apr 2017 15:17:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/world/american-member-security-watchdog-group-killed-ukraine-n749831?cid=public-rss_20170423
-</link>
-<dc:creator/>
-<description>
-A U.S. member of European security watchdog OSCE's monitoring mission in eastern Ukraine was killed after a vehicle he was in drove over a mine.
-</description>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1974156/170423-osce-car-explosion-1153a-rs_f8b1df96dc01f7bd3b668656a5fddd9a.JPG" medium="image" height="1621" width="2500">
-<media:credit>Sprinchak Valentin</media:credit>
-<media:text type="plain">
-Image: An official of the OSCE Special Monitoring Mission to Ukraine has died after his car blew up when he drove over a mine near the village of Prishib, Slavyanoserbsk District, Lugansk People's Republic, Ukraine, April 23, 2017.
-</media:text>
-<media:description type="plain">
-An official of the OSCE (Organisation for Security and Cooperation in Europe) Special Monitoring Mission to Ukraine has died after his car blew up when he drove over a mine near the village of Prishib, Slavyanoserbsk District, Lugansk People's Republic, Ukraine, April 23, 2017.
-</media:description>
-</media:content>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1974156/170423-osce-car-explosion-1153a-rs_f8b1df96dc01f7bd3b668656a5fddd9a.JPG" medium="image" height="1621" width="2500">
-<media:credit>Sprinchak Valentin</media:credit>
-<media:text type="plain">
-Image: An official of the OSCE Special Monitoring Mission to Ukraine has died after his car blew up when he drove over a mine near the village of Prishib, Slavyanoserbsk District, Lugansk People's Republic, Ukraine, April 23, 2017.
-</media:text>
-<media:description type="plain">
-An official of the OSCE Special Monitoring Mission to Ukraine was killed when this car drove over a mine near the village of Prishib, Ukraine, April 23, 2017.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/world/french-presidential-election-security-tight-polling-stations-open-n749811?cid=public-rss_20170423
-</guid>
-<title>
-France Goes to Polls Amid Tight Security Following Paris Attack
-</title>
-<pubDate>Sun, 23 Apr 2017 08:21:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/world/french-presidential-election-security-tight-polling-stations-open-n749811?cid=public-rss_20170423
-</link>
-<dc:creator>Associated Press</dc:creator>
-<description>
-More than 60,000 polling stations opened amid tight security across the country on Sunday, following an attack in Paris on Thursday which left a police officer dead.
-</description>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973821/election_18c611862afb8eed43f6b4cb0b8e174e.jpg" medium="image" height="3072" width="4608">
-<media:credit>RAYMOND ROIG</media:credit>
-<media:text type="plain">Image: FRANCE2017-VOTE</media:text>
-<media:description type="plain">
-Louis Aliot, one of the vice-presidents of the French far-right National Front (FN) party, walks past electoral posters in Perpignan.
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1973481/170422-xavier-jugele-905a-rs_99f774da83c01dce0ae4addc944ed2c9.JPG" medium="image" height="2500" width="1644">
-<media:credit>AFP - Getty Images</media:credit>
-<media:text type="plain">
-Image: An undated family handout released by the French police headquarters on April 22, 2017, shows Xavier Jugele, the French policeman killed during the attack on the Champs Elysees Avenue in Paris, on April 20, 2017.
-</media:text>
-<media:description type="plain">
-Xavier Jugele, the French policeman killed during the attack on the Champs Elysees Avenue in Paris.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973821/election_18c611862afb8eed43f6b4cb0b8e174e.jpg" medium="image" height="3072" width="4608">
-<media:credit>RAYMOND ROIG</media:credit>
-<media:text type="plain">Image: FRANCE2017-VOTE</media:text>
-<media:description type="plain">
-Louis Aliot, one of the vice-presidents of the French far-right National Front (FN) party, walks past electoral posters in Perpignan.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/us-news/american-airlines-flight-attendant-suspended-after-video-shows-confrontation-n749651?cid=public-rss_20170423
-</guid>
-<title>
-Flight Attendant Suspended After Confronting Passenger Holding Baby
-</title>
-<pubDate>Sat, 22 Apr 2017 21:23:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/us-news/american-airlines-flight-attendant-suspended-after-video-shows-confrontation-n749651?cid=public-rss_20170423
-</link>
-<dc:creator>Avalon Zoppo and Shamar Walters</dc:creator>
-<description>
-American Airlines is investigating after a video showed the aftermath of an argument between a flight attendant and a sobbing woman passenger.
-</description>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2016_34/1685836/airlines_3257e1beb1c66c6ad600a40c96531def.jpg" medium="image" height="283" width="450">
-<media:credit/>
-<media:text type="plain">
-American Airlines aircraft sit on the tarmac at LaGuardia airport following a reservation system outage in New York
-</media:text>
-<media:description type="plain">American Airlines aircraft</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/latino/journalist-cecilia-alvear-pushed-more-latinos-newsrooms-n749676?cid=public-rss_20170423
-</guid>
-<title>
-Pioneering Journalist Cecilia Alvear Pushed for More Latinos in Newsrooms
-</title>
-<pubDate>Sat, 22 Apr 2017 22:35:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/latino/journalist-cecilia-alvear-pushed-more-latinos-newsrooms-n749676?cid=public-rss_20170423
-</link>
-<dc:creator>Suzanne Gamboa</dc:creator>
-<description>
-Pioneering Journalist Cecilia Alvear died after a battle with breast cancer. She was 77.
-</description>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1973581/170422-cecilia-alvear-1138-sg_68a81f1dc678ffaa7ca2797a1f66acf1.jpg" medium="image" height="300" width="235">
-<media:credit>George Lewis</media:credit>
-<media:text type="plain">Cecilia Alvear</media:text>
-<media:description type="plain">
-Cecilia Alvear, a pioneering Latina journalist, died at 77.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973576/170422-cecilia-alvear-1138-sg_dbe800985f7523db06d8d9e60ae83e05.jpg" medium="image" height="300" width="235">
-<media:credit>George Lewis</media:credit>
-<media:text type="plain">Cecilia Alvear</media:text>
-<media:description type="plain">
-Cecilia Alvear, a pioneering Latina journalist, died at age 77.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/world/jcc-bomb-threat-suspect-s-mom-wants-apologize-his-actions-n747761?cid=public-rss_20170423
-</guid>
-<title>
-Inside The Home of the Mass Jewish Bomb-Threat Suspect
-</title>
-<pubDate>Sun, 23 Apr 2017 12:38:18 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/world/jcc-bomb-threat-suspect-s-mom-wants-apologize-his-actions-n747761?cid=public-rss_20170423
-</link>
-<dc:creator>Paul Goldman</dc:creator>
-<description>
-It was here, in an apartment in the Israeli city of Ashkelon, that officials say a Israeli-American Jewish teenager wrecked havoc across America.
-</description>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_12/1942381/jcc-ejo-032317_3e076b1e8e8864bfcb39e592dad803dd.jpg" medium="image" height="2501" width="3500">
-<media:credit>REUTERS</media:credit>
-<media:text type="plain">
-U.S.-Israeli teen arrested in Israel on suspicion of making bomb threats against Jewish community centres in the United States, Australia and New Zealand is escorted by security personnel following his hearing at Magistrate's Court in Rishon Lezion
-</media:text>
-<media:description type="plain">
-U.S.-Israeli teen arrested in Israel is escorted by security personnel following his remand hearing at Magistrate's Court in Rishon Lezion, Israel, on March 23, 2017.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/world/north-korea-detains-third-american-citizen-officials-n749821?cid=public-rss_20170423
-</guid>
-<title>
-North Korea Detains Third American Citizen: Officials
-</title>
-<pubDate>Sun, 23 Apr 2017 11:41:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/world/north-korea-detains-third-american-citizen-officials-n749821?cid=public-rss_20170423
-</link>
-<dc:creator>Associated Press</dc:creator>
-<description>
-The Swedish Embassy in Pyongyang said it was aware of a Korean-American citizen being detained recently, but could not comment further.
-</description>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_15/1966171/170415-world-northkorea-soldiers-parade-0704_9cb003b266a34bb5012e02e681457dea.jpg" medium="image" height="4366" width="6135">
-<media:credit>HOW HWEE YOUNG</media:credit>
-<media:text type="plain">
-Image: North Korea celebrates Day of the Sun festival
-</media:text>
-<media:description type="plain">
-North Korean soldiers march past with a float carrying a picture of former supreme leader Kim Il-sung.
-</media:description>
-</media:content>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2016_17/1516751/160429-korea-0419_5941eb9d5221e6fb72a89112e8551cbe.jpg" medium="image" height="1805" width="2500">
-<media:credit>KCNA</media:credit>
-<media:text type="plain">Image: Kim Dong Chul</media:text>
-<media:description type="plain">
-This file picture released from North Korea's official Korean Central News Agency on March 25 shows Kim Dong Chul addressing a news conference in Pyongyan.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/health/health-news/golf-balls-hash-browns-lead-recall-n749826?cid=public-rss_20170423
-</guid>
-<title>Golf Balls in Hash Browns Lead to Recall</title>
-<pubDate>Sun, 23 Apr 2017 13:49:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/health/health-news/golf-balls-hash-browns-lead-recall-n749826?cid=public-rss_20170423
-</link>
-<dc:creator/>
-<description>
-McCain Foods USA's recall notice said the golf balls apparently were "inadvertently harvested" along with the potatoes and chopped up.
-</description>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1973961/170423-hash-browns-943a-rs_copy_ed98d73d198c01f74a8b9cf9f79d3c0b.jpg" medium="image" height="1205" width="2500">
-<media:credit>U.S. Food and Drug Administration</media:credit>
-<media:text type="plain">
-Image: Harris Teeter Brand Frozen Southern Style Hash Browns.
-</media:text>
-<media:description type="plain">
-Harris Teeter Brand Frozen Southern Style Hash Browns.
-</media:description>
-</media:content>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1973961/170423-hash-browns-943a-rs_copy_ed98d73d198c01f74a8b9cf9f79d3c0b.jpg" medium="image" height="1205" width="2500">
-<media:credit>U.S. Food and Drug Administration</media:credit>
-<media:text type="plain">
-Image: Harris Teeter Brand Frozen Southern Style Hash Browns.
-</media:text>
-<media:description type="plain">
-Harris Teeter Brand Frozen Southern Style Hash Browns.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/science/science-news/march-science-demonstrators-say-they-re-real-patriots-n749686?cid=public-rss_20170423
-</guid>
-<title>
-March for Science Protesters Say They're the Real Patriots
-</title>
-<pubDate>Sat, 22 Apr 2017 18:10:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/science/science-news/march-science-demonstrators-say-they-re-real-patriots-n749686?cid=public-rss_20170423
-</link>
-<dc:creator>Maggie Fox</dc:creator>
-<description>
-Lovers of science got their day in the rain Saturday as they cheered their passions.
-</description>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1973711/170422-science-march-maggie-3-539p-rs_cb1ac093eb9f19482965a725fc9a186f.jpg" medium="image" height="1944" width="1407">
-<media:credit>Maggie Fox</media:credit>
-<media:text type="plain">
-Image: Alison Wolf of Richmond, Virginia studies tobacco and nicotine at Virginia Commonwealth University. She said she wanted to stress that science is part of society's mainstream. She carried a sign saying, "Cells divide. Do we have to?"
-</media:text>
-<media:description type="plain">
-Alison Wolf of Richmond, Virginia studies tobacco and nicotine at Virginia Commonwealth University. She said she wanted to stress that science is part of society's mainstream. She carried a sign saying, "Cells divide. Do we have to?"
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1973696/170422-science-march-maggie-2-542p-rs_28e4d035282d18c5c84e4eaf664a9657.jpg" medium="image" height="1407" width="1860">
-<media:credit>Maggie Fox</media:credit>
-<media:text type="plain">
-Image: "Government and religion are separate. Science and religion should be separate," said Ileana Modesto, a preschool teacher from Alexandria, Virginia.
-</media:text>
-<media:description type="plain">
-"Government and religion are separate. Science and religion should be separate," said Ileana Modesto, a preschool teacher from Alexandria, Virginia.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1973701/170422-science-march-maggie-538p-rs_28e4d035282d18c5c84e4eaf664a9657.jpg" medium="image" height="1407" width="1944">
-<media:credit>Maggie Fox</media:credit>
-<media:text type="plain">
-Image: Protesters entertained one another as they made their points with home-made signs along Constitution Avenue in Washington.
-</media:text>
-<media:description type="plain">
-Protesters entertained one another as they made their points with home-made signs along Constitution Avenue in Washington. Most, like these using periodic table symbols for elements, used science-themed puns. NBC News estimates that at least 10,000 people turned out in a steady downpour to cheer on speakers at the March for Science and then shuffle slowly along Constitution Avenue, passing the Washington monument, the White House and other landmarks in the capital.
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1973711/170422-science-march-maggie-3-539p-rs_cb1ac093eb9f19482965a725fc9a186f.jpg" medium="image" height="1944" width="1407">
-<media:credit>Maggie Fox</media:credit>
-<media:text type="plain">
-Image: Alison Wolf of Richmond, Virginia studies tobacco and nicotine at Virginia Commonwealth University. She said she wanted to stress that science is part of society's mainstream. She carried a sign saying, "Cells divide. Do we have to?"
-</media:text>
-<media:description type="plain">
-Alison Wolf of Richmond, Virginia studies tobacco and nicotine at Virginia Commonwealth University. She said she wanted to stress that science is part of society's mainstream. She carried a sign saying, "Cells divide. Do we have to?"
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/science/environment/trump-s-border-wall-catastrophic-environment-endangered-species-activists-n748446?cid=public-rss_20170423
-</guid>
-<title>
-Border Wall 'Catastrophic' for Endangered Species: Activists
-</title>
-<pubDate>Sat, 22 Apr 2017 15:25:00 GMT</pubDate>
-<link>
-http://www.nbcnews.com/science/environment/trump-s-border-wall-catastrophic-environment-endangered-species-activists-n748446?cid=public-rss_20170423
-</link>
-<dc:creator>Daniella Silva and Suzanne Gamboa</dc:creator>
-<description>
-Scientists and conservationists said such drastic increases in border security could be devastating for hundreds of species.
-</description>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1970946/170420-jaguar-los-angeles-ew-935a_6d1dca4537d6d268e0e3a48a9afc03cb.jpg" medium="image" height="1666" width="2500">
-<media:credit>Mario Anzuoni</media:credit>
-<media:text type="plain">
-Image: A jaguar is pictured in its enclosure during a summer day at the Los Angeles Zoo
-</media:text>
-<media:description type="plain">
-A jaguar is pictured in its enclosure during a summer day at the Los Angeles Zoo in Los Angeles, California U.S., August 13, 2016. REUTERS/Mario Anzuoni
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1971271/170420-jaguar-usfws-arizona-ew-1211p_81d352b61d589ac134408fe9fb62410c.jpg" medium="image" height="963" width="1540">
-<media:credit>
-University of Arizona/U.S. Fish and Wildlife Service
-</media:credit>
-<media:text type="plain">
-Image: Adult male jaguar photographed in southern Arizona by motion-detection wildlife monitoring cameras
-</media:text>
-<media:description type="plain">
-Adult male jaguar photographed in the Santa Rita Mountains on July 30, 2015 by motion-detection wildlife monitoring cameras.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1970966/170420-mexican-gray-wolf-ew-953a_070bdf92c10ac2463e509e5d60d9e4e3.jpg" medium="image" height="1646" width="2500">
-<media:credit>Susan Montoya Bryan</media:credit>
-<media:text type="plain">Image: Mexican Gray Wolf</media:text>
-<media:description type="plain">
-A female Mexican gray wolf at the Sevilleta National Wildlife Refuge in central N.M on Dec. 11, 2011.
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1948531/170329-mexico-us-border-wall-se-504p_6fa960f12bce6a04d3f9959d37f7f8d9.jpg" medium="image" height="1666" width="2500">
-<media:credit>David McNew</media:credit>
-<media:text type="plain">
-Image: Steel walls, fences, razor wire and other barricades on the US-Mexico border
-</media:text>
-<media:description type="plain">
-Multiple layers of steel walls, fences, razor wire and other barricades are viewed from the United States side of the of the US-Mexico border in San Ysidro, California on Jan. 26, 2017.
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1971261/170420-jaguar-report-esri-map-ew-1204p_0d5becdb56d4e4cce29aa154bf4bccf2.jpg" medium="image" height="1352" width="2314">
-<media:credit>Defenders of Wildlife</media:credit>
-<media:text type="plain">
-Image: Existing border wall and jaguar movement corridors
-</media:text>
-<media:description type="plain">
-Existing border wall and jaguar movement corridors.
-</media:description>
-</media:content>
-<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_16/1969856/sabal29_d040e46e1dd9868898630025148695ec.jpg" medium="image" height="3024" width="4032">
-<media:credit>Suzanne Gamboa</media:credit>
-<media:text type="plain"/>
-<media:description type="plain">
-The border fence built by the George W. Bush administration stretches along land in Brownsville and in front of the sanctuary, that is behind the fence but still in the United States.
-</media:description>
-</media:content>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_16/1969836/sabal5_16a3843915e64c4770ed54a35034a9bd.jpg" medium="image" height="1291" width="2762">
-<media:credit>Suzanne Gamboa</media:credit>
-<media:text type="plain"/>
-<media:description type="plain">
-The view of the wetland wildlife habitat and water fowl through the Resaca blind in the Sabal Palm Sanctuary in Brownsville, Texas.
-</media:description>
-</media:content>
-<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1970951/170420-rio-grande-big-bend-national-park-ew-943a_1669f89895e940032a749d4233d0b141.jpg" medium="image" height="1667" width="2500">
-<media:credit>Rodrigo Abd</media:credit>
-<media:text type="plain">
-Image: Tourists walk in the water of the Rio Grande River in Big Bend National Park in Texas
-</media:text>
-<media:description type="plain">
-Tourists walk in the water of the Rio Grande, along a cliff face that is Mexico, left, as they vacation at Big Bend National Park in Texas on March 27.
-</media:description>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">
-http://www.nbcnews.com/news/world/north-korea-experts-warn-only-way-forward-may-be-diplomacy-n748186?cid=public-rss_20170423
-</guid>
-<title>
-Why Military Force Against North Korea Might Not Work
-</title>
-<pubDate>Sat, 22 Apr 2017 11:37:37 GMT</pubDate>
-<link>
-http://www.nbcnews.com/news/world/north-korea-experts-warn-only-way-forward-may-be-diplomacy-n748186?cid=public-rss_20170423
+http://www.nbcnews.com/politics/white-house/ivanka-trump-germany-first-daughter-leaves-some-women-scratching-heads-n750556?cid=public-rss_20170425
 </link>
 <dc:creator>Alexander Smith</dc:creator>
 <description>
-Trump's presidency has seen tensions ratcheting up over the Korean peninsula.
+Ivanka Trump is in Germany as a member of her father's presidential team. In doing so, the first daughter stepped into a land that prides itself on meritocracy.
 </description>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_15/1966161/170415-world-northkorea-missile-submarine-0701_f5a84a50a9dc79e896b9febee485b307.jpg" medium="image" height="3486" width="5268">
-<media:credit>Wong Maye-E</media:credit>
+<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_17/1976381/170425-ivanka-trump-cr-0644_4262802b3ff92d3765358abebb06ce67.jpg" medium="image" height="1681" width="2500">
+<media:credit>Fabrizio Bensch</media:credit>
 <media:text type="plain">
-Image: A submarine-launched ballistic missile was also on display.
+Image: W20 Summit under the motto "Inspiring women: scaling up women's entrepreneurship" in Berlin
 </media:text>
 <media:description type="plain">
-A submarine-launched ballistic missile was also on display.
+Daughter of U.S. President Ivanka Trump at the W20 Summit under the motto "Inspiring women: scaling up women's entrepreneurship" in Berlin, Germany, April 25, 2017.
+</media:description>
+</media:content>
+<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_17/1976316/170425-angela-merkel-ivanka-trump-cr-0523_02_c85799555462979b6f86d4bc7315c8bd.jpg" medium="image" height="2556" width="3588">
+<media:credit>Evan Vucci</media:credit>
+<media:text type="plain">Image: Ivanka Trump, Angela Merkel</media:text>
+<media:description type="plain">
+Chancellor Angela Merkel listens as Ivanka Trump speaks during a meeting with President Donald Trump at the White House in Washington on March 17.
+</media:description>
+</media:content>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_17/1976356/170425-inga-meyer-cr-0601_662efc348aa57f2ddaf0181993656644.jpg" medium="image" height="1875" width="2500">
+<media:credit>Alex Smith</media:credit>
+<media:text type="plain">Image: Inga Meyer</media:text>
+<media:description type="plain">Inga Meyer in Berlin.</media:description>
+</media:content>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_17/1976346/170425-sandra-toepke-cr-0552_662efc348aa57f2ddaf0181993656644.jpg" medium="image" height="1875" width="2500">
+<media:credit>Alex Smith</media:credit>
+<media:text type="plain">Image: Sandra Toepke</media:text>
+<media:description type="plain">Sandra Toepke.</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.today.com/parents/serena-williams-responds-tennis-star-s-racist-remark-message-determination-t110755
+</guid>
+<title>
+Serena Williams Responds to Tennis Star's 'Racist' Comment, Quotes Maya Angelou
+</title>
+<pubDate>Tue, 25 Apr 2017 04:30:00 GMT</pubDate>
+<link>
+http://www.today.com/parents/serena-williams-responds-tennis-star-s-racist-remark-message-determination-t110755
+</link>
+<dc:creator/>
+<description/>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_16/1970091/170419-serena-williams-australian-open-njs-1255p_02bf57fbc3a3c4cc39e754459d91afca.jpg" medium="image" height="1751" width="2500">
+<media:credit>Michael Dodge</media:credit>
+<media:text type="plain">Image: Serena Williams</media:text>
+<media:description type="plain">
+Serena Williams speaks to the media after winning the Women's Singles Final against Venus Williams at the Australian Open on Jan. 28, 2017 in Melbourne.
 </media:description>
 </media:content>
 </item>
 <item>
 <guid isPermaLink="false">
-http://www.nbcnews.com/news/us-news/how-berkeley-became-new-battleground-free-speech-n749536?cid=public-rss_20170423
+http://www.nbcnews.com/news/us-news/eagle-trafficking-case-busted-undercover-operation-15-indicted-n750551?cid=public-rss_20170425
 </guid>
 <title>
-How Berkeley Became a New Battleground For Free Speech
+Feds Bust Huge Eagle Trafficking Case in Undercover Op
 </title>
-<pubDate>Sat, 22 Apr 2017 15:04:00 GMT</pubDate>
+<pubDate>Tue, 25 Apr 2017 09:27:00 GMT</pubDate>
 <link>
-http://www.nbcnews.com/news/us-news/how-berkeley-became-new-battleground-free-speech-n749536?cid=public-rss_20170423
+http://www.nbcnews.com/news/us-news/eagle-trafficking-case-busted-undercover-operation-15-indicted-n750551?cid=public-rss_20170425
 </link>
-<dc:creator>Chelsea Bailey</dc:creator>
+<dc:creator>Associated Press</dc:creator>
 <description>
-Many in the Berkeley community feel that recent clashes have turned their city into a powder-keg on the brink.
+The case focuses on trafficking of eagles and eagle parts and feathers for profit. Authorities said the case could involve as many as 250 eagles.
 </description>
-<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_15/1966871/ss-170416-tax-day-protest-2-423p-rs_2035538aacd696abafe52451c67f6f11.JPG" medium="image" height="1667" width="2500">
-<media:credit>Elijah Nouvelage</media:credit>
-<media:text type="plain">
-Image: Trump supporters clash with protesters at the "Patriots Day" free speech rally on April 15, in Berkeley.
-</media:text>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1976326/eagle_trafficking_72215-jpg-bb1b2_023c433516f2b41162e5f0272950a773.jpg" medium="image" height="1889" width="2783">
+<media:credit>James Nord</media:credit>
+<media:text type="plain">Image: Randy Seiler</media:text>
 <media:description type="plain">
-Trump supporters clash with protesters at the "Patriots Day" free speech rally on April 15, in Berkeley.
+South Dakota U.S. Attorney Randy Seiler discusses the details of indictments in an eagle trafficking case in Rapid City, S.D. on Monday.
 </media:description>
 </media:content>
-<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_15/1966851/ss-170416-tax-day-protest-6-423p-rs_2035538aacd696abafe52451c67f6f11.JPG" medium="image" height="1667" width="2500">
-<media:credit>Elijah Nouvelage</media:credit>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1976326/eagle_trafficking_72215-jpg-bb1b2_023c433516f2b41162e5f0272950a773.jpg" medium="image" height="1889" width="2783">
+<media:credit>James Nord</media:credit>
+<media:text type="plain">Image: Randy Seiler</media:text>
+<media:description type="plain">
+South Dakota U.S. Attorney Randy Seiler discusses the details of indictments in an eagle trafficking case in Rapid City, S.D. on Monday.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/news/us-news/alex-jones-sued-chobani-after-yogurt-maker-says-radio-host-n750566?cid=public-rss_20170425
+</guid>
+<title>Alex Jones Sued By Greek Yogurt Maker Chobani</title>
+<pubDate>Tue, 25 Apr 2017 11:05:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/news/us-news/alex-jones-sued-chobani-after-yogurt-maker-says-radio-host-n750566?cid=public-rss_20170425
+</link>
+<dc:creator/>
+<description>
+Chobani filed a lawsuit Monday against right-wing radio host Alex Jones, accusing the conspiracy theorist of publishing false information about the company.
+</description>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1976386/people_alex_jones_04650-jpg-5addc_dd37899d4976ddbda7717ce024e53d26.jpg" medium="image" height="1333" width="2000">
+<media:credit>Tamir Kalifa</media:credit>
+<media:text type="plain">Image:</media:text>
+<media:description type="plain">
+In this Monday, April 17, 2017 photo, "Infowars" host Alex Jones arrives at the Travis County Courthouse in Austin, Texas. Jones, the right-wing radio host and conspiracy theorist, is a performance artist whose true personality is nothing like his on-air persona, according to a lawyer defending the "Infowars" broadcaster in a child custody battle. (Tamir Kalifa/Austin American-Statesman via AP)
+</media:description>
+</media:content>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1976386/people_alex_jones_04650-jpg-5addc_dd37899d4976ddbda7717ce024e53d26.jpg" medium="image" height="1333" width="2000">
+<media:credit>Tamir Kalifa</media:credit>
+<media:text type="plain">Image:</media:text>
+<media:description type="plain">
+In this Monday, April 17, 2017 photo, "Infowars" host Alex Jones arrives at the Travis County Courthouse in Austin, Texas during a child custody battle.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/tech/tech-news/popular-antivirus-program-mistakenly-ids-windows-threat-creating-chaos-n750521?cid=public-rss_20170425
+</guid>
+<title>
+Computer Chaos as Antivirus Falsely IDs Windows as Threat
+</title>
+<pubDate>Tue, 25 Apr 2017 11:53:23 GMT</pubDate>
+<link>
+http://www.nbcnews.com/tech/tech-news/popular-antivirus-program-mistakenly-ids-windows-threat-creating-chaos-n750521?cid=public-rss_20170425
+</link>
+<dc:creator>Alex Johnson</dc:creator>
+<description>
+Webroot said a bad rule that was live for 13 minutes identified critical Windows files as 'false positives,' blocking Windows' access to them.
+</description>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_17/1976051/170424-computer-illo_3ed350408ba92f651f7cfcdec0ac8ae5.jpg" medium="image" height="1963" width="3000">
+<media:credit>Reuters - file</media:credit>
+<media:text type="plain">Image: Computer illustration</media:text>
+<media:description type="plain"/>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/politics/congress/congress-scrambling-fund-government-ahead-friday-deadline-n750401?cid=public-rss_20170425
+</guid>
+<title>
+Trump Open to Backing Down on Border Wall in Shutdown Standoff
+</title>
+<pubDate>Tue, 25 Apr 2017 11:40:37 GMT</pubDate>
+<link>
+http://www.nbcnews.com/politics/congress/congress-scrambling-fund-government-ahead-friday-deadline-n750401?cid=public-rss_20170425
+</link>
+<dc:creator>Leigh Ann Caldwell and Peter Alexander</dc:creator>
+<description>
+Congressional negotiators are working to maneuver around demands by the Trump administration that few on Capitol Hill support.
+</description>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_11/1935431/trump_budget_53888-jpg-f3f54_c1c9a8211bc2d8890d8f4b6cb7dcdfc5.jpg" medium="image" height="2188" width="3038">
+<media:credit>Andrew Harnik</media:credit>
+<media:text type="plain">Image: Mick Mulvaney</media:text>
+<media:description type="plain">
+Budget Director Mick Mulvaney speaks about President Donald Trump's budget proposal for the coming fiscal year during daily press briefing at the White House, in Washington, Thursday, March 16, 2017.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/news/nbcblk/are-removing-confederate-monuments-erasing-history-n750526?cid=public-rss_20170425
+</guid>
+<title>
+Is Removing Confederate Monuments Like Erasing History?
+</title>
+<pubDate>Tue, 25 Apr 2017 08:34:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/news/nbcblk/are-removing-confederate-monuments-erasing-history-n750526?cid=public-rss_20170425
+</link>
+<dc:creator>Melba Newsome</dc:creator>
+<description>
+Debates about the appropriateness of honoring Confederate legends with memorials, eponymous roads and buildings are taking place nationwide.
+</description>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1976261/ap_93062389165_86bef79234d93716682edd0418c8edb4.jpg" medium="image" height="3156" width="5184">
+<media:credit>Steve Helber</media:credit>
+<media:text type="plain"/>
+<media:description type="plain">
+The words "Black Lives Matter" spray painted on a monument to former Confederate President Jefferson Davis in Richmond, Va. June 25, 2015.
+</media:description>
+</media:content>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1976256/ap_715846565663_1_6bd964cbe17838d5c99242228d263cd8.jpg" medium="image" height="2987" width="4467">
+<media:credit>Steve Helber</media:credit>
+<media:text type="plain">Jefferson Davis Monument Richmond, Virginia</media:text>
+<media:description type="plain">
+A passerby photographs the spray painted message of "Black Lives Matter" that was painted on a monument to former Confederate President Jefferson Davis on Monument Avenue in Richmond, Va., Thursday, June 25, 2015.
+</media:description>
+</media:content>
+<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_17/1976266/ap_99013001442_0f5b98656e7fc5fea0e266771fd05018.jpg" medium="image" height="1840" width="1600">
+<media:credit>Kim Truett</media:credit>
+<media:text type="plain">Image: Confederate flag</media:text>
+<media:description type="plain">
+Members of the South Carolina Council of Conservative Citizens protest the removal of the Confederate flag from the State House dome by standing in front of the Confederate monument on the State House grounds Jan. 30, 1999, in Colmbia, S.C.
+</media:description>
+</media:content>
+<media:content url="http://media4.s-nbcnews.com/i/newscms/2017_17/1974476/confederate_statues_new_orleans_44962-jpg-24013_83555476ae21103051ffca63afef3369.jpg" medium="image" height="3456" width="5184">
+<media:credit>Gerald Herbert</media:credit>
 <media:text type="plain">
-Image: Trump supporters face off with protesters in Berkeley.
+Image: Charles Lincoln speaks during a candlelight vigil
 </media:text>
 <media:description type="plain">
-Trump supporters face off with protesters in Berkeley.
+Charles Lincoln speaks during a candlelight vigil at the statue of Jefferson Davis in New Orleans, on Monday.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/business/real-estate/selling-your-home-why-spring-strongest-seller-s-market-ever-n750571?cid=public-rss_20170425
+</guid>
+<title>
+Selling Your Home? This Spring is the 'Strongest Market Ever'
+</title>
+<pubDate>Tue, 25 Apr 2017 11:37:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/business/real-estate/selling-your-home-why-spring-strongest-seller-s-market-ever-n750571?cid=public-rss_20170425
+</link>
+<dc:creator>Diana Olick, CNBC</dc:creator>
+<description>
+Homes are selling fast, with bidding wars par for the course. Prices have surpassed their last peak, and sellers are firmly in the driver's seat.
+</description>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_17/1976436/houseforsale_2_1902345bba588d128f4514fcad2d3b07.jpg" medium="image" height="519" width="780">
+<media:credit/>
+<media:text type="plain">
+Homes are seen for sale in the northwest area of Portland
+</media:text>
+<media:description type="plain">
+Homes are seen for sale in the northwest area of Portland, Oregon. REUTERS/Steve Dipaola
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/top-trump-controversies-first-100-days-n746736?cid=public-rss_20170425
+</guid>
+<title>Top Trump Controversies of The First 100 Days</title>
+<pubDate>Tue, 25 Apr 2017 11:29:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/storyline/president-trumps-first-100-days/top-trump-controversies-first-100-days-n746736?cid=public-rss_20170425
+</link>
+<dc:creator>Andrew Rafferty</dc:creator>
+<description>
+Here's a look at some of the biggest controversies of Trump's first 100 days in office.
+</description>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_17/1975526/170424-trump-conway-mn-1615_abe5d2a250fa94e7ec6508362a231178.jpg" medium="image" height="1979" width="2500">
+<media:credit>Mike Segar</media:credit>
+<media:text type="plain">
+Image: U.S. President-elect Donald Trump and his campaign manager Kellyanne Conway greet supporters during his election night rally in Manhattan
+</media:text>
+<media:description type="plain">
+President-elect Donald Trump and his campaign manager Kellyanne Conway greet supporters during his election night rally in Manhattan.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/storyline/lethal-injection/arkansas-executions-state-track-execute-two-death-row-inmates-tonight-n750291?cid=public-rss_20170425
+</guid>
+<title>
+Arkansas Executes Two Death Row Inmates in One Night
+</title>
+<pubDate>Tue, 25 Apr 2017 11:51:54 GMT</pubDate>
+<link>
+http://www.nbcnews.com/storyline/lethal-injection/arkansas-executions-state-track-execute-two-death-row-inmates-tonight-n750291?cid=public-rss_20170425
+</link>
+<dc:creator>Phil McCausland</dc:creator>
+<description>
+Jack Jones and Marcell Williams' executions are part of an aggressive schedule set by Gov. Asa Hutchinson that originally planned to execute eight men within 10 days, because a key lethal injection drug expires at the end of the month. Four of those executions were blocked by courts but Arkansas executed another man, Ledell Lee, on Thursday night.
+</description>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1973776/ap_17103804812887_21b680796293772ea36db40738ae694f.jpg" medium="image" height="1514" width="2514">
+<media:credit>Arkansas Department of Correction via AP</media:credit>
+<media:text type="plain">Image:</media:text>
+<media:description type="plain">
+Arkansas death-row inmates Jack Harold Jones Jr., left, and Marcel Williams are scheduled for execution on April 24, 2017.
+</media:description>
+</media:content>
+<media:content url="http://media3.s-nbcnews.com/i/newscms/2017_16/1973776/ap_17103804812887_21b680796293772ea36db40738ae694f.jpg" medium="image" height="1514" width="2514">
+<media:credit>Arkansas Department of Correction via AP</media:credit>
+<media:text type="plain">Image:</media:text>
+<media:description type="plain">
+Arkansas death-row inmates Jack Harold Jones Jr., left, and Marcel Williams are scheduled for execution on April 24, 2017.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/news/us-news/tennessee-kidnap-suspect-tad-cummins-allegedly-planned-flee-u-s-n750371?cid=public-rss_20170425
+</guid>
+<title>
+Ex-Teacher Tad Cummins Allegedly Planned to Flee U.S. With Girl
+</title>
+<pubDate>Mon, 24 Apr 2017 21:36:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/news/us-news/tennessee-kidnap-suspect-tad-cummins-allegedly-planned-flee-u-s-n750371?cid=public-rss_20170425
+</link>
+<dc:creator>Alex Johnson and Gabe Gutierrez</dc:creator>
+<description>
+Tad Cummins bought a small boat and made a test run from San Diego to Mexico after he kidnapped 15-year-old Elizabeth Thomas, investigators said.
+</description>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_17/1975791/170424-tad-cummins-court_a89ece50aa64d8f5347542e568226c2a.jpg" medium="image" height="2448" width="3264">
+<media:credit>Vicki Behringer</media:credit>
+<media:text type="plain">IMAGE: Tad Cummins in federal court</media:text>
+<media:description type="plain">
+Tad Cummins in U.S. District Court in Sacramento, California, on Monday.
+</media:description>
+</media:content>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_17/1975791/170424-tad-cummins-court_a89ece50aa64d8f5347542e568226c2a.jpg" medium="image" height="2448" width="3264">
+<media:credit>Vicki Behringer</media:credit>
+<media:text type="plain">IMAGE: Tad Cummins in federal court</media:text>
+<media:description type="plain">
+Tad Cummins in U.S. District Court in Sacramento, California, on Monday.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/better/a-better-way/what-we-learned-giving-sugar-might-surprise-you-n748431?cid=public-rss_20170425
+</guid>
+<title>
+We Quit Sugar for 10 Days and This Is What Happened
+</title>
+<pubDate>Mon, 24 Apr 2017 19:52:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/better/a-better-way/what-we-learned-giving-sugar-might-surprise-you-n748431?cid=public-rss_20170425
+</link>
+<dc:creator>Emily Slawek</dc:creator>
+<description>
+Giving up sugar helped us understand what a healthy diet really means (to us).
+</description>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/pop-culture/books/zen-art-motorcycle-maintenance-author-robert-pirsig-dead-n750486?cid=public-rss_20170425
+</guid>
+<title>
+'Zen and the Art of Motorcycle Maintenance' Author Dead
+</title>
+<pubDate>Tue, 25 Apr 2017 01:20:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/pop-culture/books/zen-art-motorcycle-maintenance-author-robert-pirsig-dead-n750486?cid=public-rss_20170425
+</link>
+<dc:creator/>
+<description>
+Pirsig's publishing house, William Morrow, announced that he died at his home in South Berwick, Maine. After the entire industry seemed to shun it, William Morrow took on the book, with editor James Landis writing at the time that he found it "brilliant beyond belief." A world traveler and former philosophy student, Pirsig would blend his life and learning, and East and...
+</description>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_17/1975921/170424-robert-pirsig-obit-se-821p_4a2cfbd8ce37c4450ef7c04cf71d30f9.jpg" medium="image" height="2500" width="1697">
+<media:credit>William Morrow via AP</media:credit>
+<media:text type="plain">
+Image: Robert M. Pirsig works on a motorcycle in 1975
+</media:text>
+<media:description type="plain">
+Author Robert M. Pirsig works on a motorcycle in 1975. Pirsig, whose novel "Zen and the Art of Motorcycle Maintenance" became a million-selling classic after more than 100 publishers turned it down, died at his home in South Benwick, Maine on April 24, 2017. He was 88.
+</media:description>
+</media:content>
+<media:content url="http://media1.s-nbcnews.com/i/newscms/2017_17/1975921/170424-robert-pirsig-obit-se-821p_4a2cfbd8ce37c4450ef7c04cf71d30f9.jpg" medium="image" height="2500" width="1697">
+<media:credit>William Morrow via AP</media:credit>
+<media:text type="plain">
+Image: Robert M. Pirsig works on a motorcycle in 1975
+</media:text>
+<media:description type="plain">
+Author Robert M. Pirsig works on a motorcycle in 1975.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/specials/donald-trump-first-100-days
+</guid>
+<title>
+Rewriting the Rulebook: Trump's Chaotic First 100 Days
+</title>
+<pubDate>Mon, 24 Apr 2017 17:04:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/specials/donald-trump-first-100-days
+</link>
+<dc:creator/>
+<description>
+As President Trump approaches 100 days, NBC News takes an in-depth look at his successes and failures so far.
+</description>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_17/1976291/trump_c718e3888bc71e272ef448b46e9bddbc.jpg" medium="image" height="2955" width="4432">
+<media:credit>BRENDAN SMIALOWSKI</media:credit>
+<media:text type="plain">Image: FILES-US-POLITICS-TRUMP-100DAYS</media:text>
+<media:description type="plain">
+US President elect Donald Trump (C) arrives for the swearing-in ceremony on in front of the Capitol in Washington on January 20, 2017.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/science/environment/global-warming-may-get-americans-couch-more-study-finds-n750331?cid=public-rss_20170425
+</guid>
+<title>
+Baked Potatoes: Global Warming Could Get Americans Off Couch
+</title>
+<pubDate>Mon, 24 Apr 2017 20:11:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/science/environment/global-warming-may-get-americans-couch-more-study-finds-n750331?cid=public-rss_20170425
+</link>
+<dc:creator/>
+<description>
+"It's a small little tiny silver lining amid a series of very bad, very unfortunate events that are likely to occur," said researcher Nick Obradovich.
+</description>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_17/1975476/2009-10-27t050629z_01_pod018_rtridsp_3_pod_e652263ec8fb3ce379d61310659026cb.jpg" medium="image" height="2190" width="3480">
+<media:credit>FRANCOIS LENOIR</media:credit>
+<media:text type="plain">Image: REUTERS PICTURES OF THE DECADE</media:text>
+<media:description type="plain">
+Climate activists Lesley Butler and Rob Bell (R) "sunbathe" on the edge of a frozen fjord in the Norwegian Arctic town of Longyearbyen April 25, 2007.
+</media:description>
+</media:content>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_17/1975501/667318506_fa1f2e6e3668c8eb758d080c541678c7.jpg" medium="image" height="2897" width="4346">
+<media:credit>Drew Angerer</media:credit>
+<media:text type="plain">
+Image: Summer Weather Visits Springtime New York City
+</media:text>
+<media:description type="plain">
+On an unseasonably warm day, a man takes in the sun as he relaxes on a pier along the East River, April 11, 2017 in New York City.
+</media:description>
+</media:content>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_17/1975476/2009-10-27t050629z_01_pod018_rtridsp_3_pod_e652263ec8fb3ce379d61310659026cb.jpg" medium="image" height="2190" width="3480">
+<media:credit>FRANCOIS LENOIR</media:credit>
+<media:text type="plain">Image: REUTERS PICTURES OF THE DECADE</media:text>
+<media:description type="plain">
+Climate activists Lesley Butler and Rob Bell (R) "sunbathe" on the edge of a frozen fjord in the Norwegian Arctic town of Longyearbyen April 25, 2007.
+</media:description>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">
+http://www.nbcnews.com/news/us-news/anti-semitic-incidents-spike-election-jewish-watchdog-says-n749956?cid=public-rss_20170425
+</guid>
+<title>
+Anti-Semitic Incidents Spike Since Election: Research
+</title>
+<pubDate>Mon, 24 Apr 2017 03:59:00 GMT</pubDate>
+<link>
+http://www.nbcnews.com/news/us-news/anti-semitic-incidents-spike-election-jewish-watchdog-says-n749956?cid=public-rss_20170425
+</link>
+<dc:creator>Becky Bratu</dc:creator>
+<description>
+Reports of anti-Semitic incidents recorded this year include 161 bomb threats and 155 vandalism incidents, including three cemetery desecrations.
+</description>
+<media:content url="http://media2.s-nbcnews.com/i/newscms/2017_05/1891551/16472826_1279925198727329_1365010301030641222_n_2db2eac88149623525d186ebc9cd404a.jpg" medium="image" height="720" width="960">
+<media:credit>Facebook</media:credit>
+<media:text type="plain">IMAGE: Nazi graffiti New York</media:text>
+<media:description type="plain">
+Passengers remove anti-Semitic graffiti found daubed on a New York subway train in February.
 </media:description>
 </media:content>
 </item>

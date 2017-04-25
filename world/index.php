@@ -72,6 +72,13 @@
 </div>
 <!----------Body---------- -->
 <div class="container mainBody" id="a1">
+	<?php
+	$xml=simplexml_load_file("http://indiatoday.intoday.in/rss/article.jsp?sid=36") or die("Error: Cannot create object");
+		foreach($xml->channel->item as $item) 
+		{ 
+		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><p class=\"para\">".$item->description."</p></div>";
+		} 	
+	?>
 	<style>
 	#column
 	{
@@ -79,7 +86,8 @@
 		padding:10px;
 		box-shadow:5px 0px 5px  #888888;
 		border:solid #f0ede9 10px;
-		height:550px;
+		height:500px;
+		width:350px;
 	}
 	</style>
 	
@@ -113,14 +121,17 @@
 	</div>
 </div >
 
+
+
 	
-		<!--------------------------------
-		||	JavaScript					||
-		---------------------------------->	
-		<!--Bootstrap jQuery library -->
-		<script src="/24HourNews/bootstrap/jquery/jquery.min.js"></script>
-		<!--Bootstrap JavaScript -->
-		<script src="/24HourNews/bootstrap/js/bootstrap.min.js"></script>
+<!--------------------------------
+||	JavaScript					||
+---------------------------------->	
+<!--Bootstrap jQuery library -->
+<script src="/24HourNews/bootstrap/jquery/jquery.min.js"></script>
+<!--Bootstrap JavaScript -->
+<script src="/24HourNews/bootstrap/js/bootstrap.min.js"></script>
+<!--
 		<script>
 		
 		  var xhttp = new XMLHttpRequest();
@@ -186,5 +197,7 @@
 		
 
 		</script>
+-->
+		
 </body>
 </html>
