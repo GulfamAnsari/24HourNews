@@ -61,12 +61,12 @@
 		</div>
 
 		<div class="social col-sm-4">
-			<ul class="list-inline ">
-				<li><a href="#" style="background: #375593"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="#" style="background: #0eb6f6"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="#" style="background: #dd4b39"><i class="fa fa-youtube"></i></a></li>
-				<li><a href="#" style="background: #e32c26"><i class="fa fa-google-plus"></i></a></li>
-			</ul>
+					<ul class="list-inline ">
+						<li><a href="http://facebook.com/droidtechknow" style="background: #375593"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://twitter.com/gulfamansari151" style="background: #0eb6f6"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="http://youtube.com/droidtechknow" style="background: #dd4b39"><i class="fa fa-youtube"></i></a></li>
+						<li><a href="#" style="background: #e32c26"><i class="fa fa-google-plus"></i></a></li>
+					</ul>
 		</div>
 	</div>
 </div>
@@ -84,12 +84,12 @@
 				<li><a  class="navHeading" href="/24HourNews/"><i class="fa fa-home" style="padding-right:5px"></i>Top Stories</a></li>
 				<li><a  class="navHeading" href="/24HourNews/world/">world</a></li>
 				<li><a  class="navHeading" href="/24HourNews/india/">India</a></li>
-				<li><a  class="navHeading" href="/24HourNews/city/">City</a></li>
+				<li><a  class="navHeading" href="/24HourNews/politics/">Politics</a></li>
 				<li><a  class="navHeading" href="/24HourNews/technology/">Technology</a></li>
 				<li><a  class="navHeading" href="/24HourNews/sports/">Sports</a></li>
 				<li><a  class="navHeading" href="/24HourNews/entertainment/">Entertainment</a></li>
 				<li><a  class="navHeading" href="/24HourNews/economy/">Economy</a></li>
-				<li><a  class="navHeading" href="/24HourNews/bussiess/">Bussiess</a></li>
+				<li><a  class="navHeading" href="/24HourNews/business/">Business</a></li>
 			</ul>
 		</div>
 	</div>
@@ -97,10 +97,10 @@
 <!----------Body---------- -->
 <div class="container mainBody">
 	<?php
-	$xml=simplexml_load_file("http://indiatoday.intoday.in/rss/article.jsp?sid=21") or die("Error: Cannot create object");
+	$xml=simplexml_load_file("http://www.news9.com/category/116602/politics?clienttype=rss") or die("Error: Cannot create object");
 		foreach($xml->channel->item as $item) 
 		{ 
-		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><p class=\"para\">".$item->description."</p></div>";
+		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><img src=".$item->enclosure['url'] ." width=\"310\"></img><p class=\"para\">".$item->description."</p></div>";
 		} 	
 	?>
 
@@ -117,10 +117,10 @@
 		<div class=" col-sm-4 ">
 				<p class="para" style="color:white;text-align:center;" >FOLLOW US</p>
 				<div class="social ">
-					<ul class="list-inline text-center" >
-						<li><a href="#" style="background: #375593"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="#" style="background: #0eb6f6"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="#" style="background: #dd4b39"><i class="fa fa-youtube"></i></a></li>
+					<ul class="list-inline ">
+						<li><a href="http://facebook.com/droidtechknow" style="background: #375593"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="https://twitter.com/gulfamansari151" style="background: #0eb6f6"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="http://youtube.com/droidtechknow" style="background: #dd4b39"><i class="fa fa-youtube"></i></a></li>
 						<li><a href="#" style="background: #e32c26"><i class="fa fa-google-plus"></i></a></li>
 					</ul>
 				</div>
