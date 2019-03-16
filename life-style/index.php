@@ -107,7 +107,7 @@
                     <div class="entry-content">
                         <div id="featured-post-slider" class="flexslider">
                             <ul class="slides">
-                                <?php	$xml=simplexml_load_file("https://timesofindia.indiatimes.com/rssfeeds/4719148.cms") or die("Error: Cannot create object");
+                                <?php	$xml=simplexml_load_file("https://timesofindia.indiatimes.com/rssfeeds/2886704.cms") or die("Error: Cannot create object");
 						foreach($xml->channel->item as $item) 
 						{ preg_match('/src=(["\'])([^\1]*)\1/i', $item->description, $m);
 							preg_match('/<a[^>]+href=([\'"])(?<href>.+?)\1[^>]*>/i', $item->description, $a);
@@ -287,4 +287,3 @@
 </body>
 
 </html>
-

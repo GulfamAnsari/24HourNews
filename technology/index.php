@@ -1,217 +1,287 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">	
-	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
-	<!--Main Css -->
-	<link rel="stylesheet" href="/style.css">
-	<!--Icons -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<!--Non JavaScript Tag-->
-	<noscript>
-		JavaScript is Not Enable.
-		For full functionality of this site it is necessary to enable JavaScript.
-		Here are the <a href="http://www.enable-javascript.com/" target="_blank">
-		instructions how to enable JavaScript in your web browser</a>.
-	</noscript>
-	<style>
-	.mainBody
-	{
-		padding:50px;
-	}
-	#column
-	{
-		background-color:white;
-		padding:10px;
-		height:460px;
-		width:350px;
-		box-shadow:10px 10px 10px 15px #888888;
-		border:solid #f0ede9 10px;
-		overflow:auto;
-	}
-	@media (max-width: 768px) 
-	{
-		.mainBody
-		{
-			margin:70px;
-			padding:0px;
-		}
-	}
-	</style>
+
+    <!--- basic page needs
+   ================================================== -->
+    <meta charset="utf-8">
+    <title>News24Hours</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- mobile specific metas
+   ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- CSS
+   ================================================== -->
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/vendor.css">
+    <link rel="stylesheet" href="../css/main.css">
+
+
+    <!-- script
+   ================================================== -->
+    <script src="../js/modernizr.js"></script>
+    <script src="../js/pace.min.js"></script>
+
+    <!-- favicons
+	================================================== -->
+    <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon">
+    <link rel="icon" href="/images/logo.png" type="image/x-icon">
 
 </head>
-<body style="background-color: #f0ede9;">
-<!--Header--->
-<div class="container header">
-	<div>
-		<div class="col-sm-2">
-			<a href="/"><img src="http://www.news24nepal.tv/wp-content/themes/news24desktop/images/logo.png" height="50px" style="margin-top:-15px"></img></a>
-		</div>
-		<div class="col-sm-6 header-search text-center" >
-			<form method="get" id="searchform" class="search-form" >
-				<fieldset>
-					<input type="text" name="s" id="s" value="" placeholder="What are you looking for?"  />
-					<button id="search-image" class="sbutton" type="submit" value="">
-							<i class="fa fa-search"></i>
-					</button>
-				</fieldset>
-			</form>
-		</div>
 
-		<div class="social col-sm-4">
-					<ul class="list-inline ">
-						<li><a href="http://facebook.com/droidtechknow" style="background: #375593"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="https://twitter.com/gulfamansari151" style="background: #0eb6f6"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="http://youtube.com/droidtechknow" style="background: #dd4b39"><i class="fa fa-youtube"></i></a></li>
-						<li><a href="#" style="background: #e32c26"><i class="fa fa-google-plus"></i></a></li>
-					</ul>
-		</div>
-	</div>
-</div>
+<body id="top">
 
-<!----------Navigation bar---------- -->
-<div class="container navbar navbar-default navbar-custom navbar-fixed-top " >
-	<div >
-		<div class="navbar-header" >
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#smallMenu">
-				<i class="fa fa-bars" style="color:white">Menu</i>
-			</button>
-		</div>
-		<div class="collapse navbar-collapse" id="smallMenu" >
-			<ul class="nav navbar-nav navbar-left">
-				<li><a  class="navHeading" href="/"><i class="fa fa-home" style="padding-right:5px"></i>Top Stories</a></li>
-				<li><a  class="navHeading" href="/world/">world</a></li>
-				<li><a  class="navHeading" href="/india/">India</a></li>
-				<li><a  class="navHeading" href="/politics/">Politics</a></li>
-				<li><a  class="navHeading" href="/technology/">Technology</a></li>
-				<li><a  class="navHeading" href="/sports/">Sports</a></li>
-				<li><a  class="navHeading" href="/entertainment/">Entertainment</a></li>
-				<li><a  class="navHeading" href="/economy/">Economy</a></li>
-				<li><a  class="navHeading" href="/business/">Business</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-<!----------Body---------- -->
-<div class="container mainBody">
-	<?php
-	$xml=simplexml_load_file("http://gadgets.ndtv.com/rss/feeds.xml") or die("Error: Cannot create object");
-		foreach($xml->channel->item as $item) 
-		{ 
-		echo "<div class=\"col-lg-4\" id=\"column\"><p class=\"heading\"> ".$item->title."</p><img src=".$item->storyimage." width=\"310\"></img><p class=\"para\">".$item->description."</p></div>";
-		} 	
-	?>
+    <!-- header 
+   ================================================== -->
+    <header class="short-header">
 
-	
-</div>
-<!----------Footer---------- -->
-<div class="footer " >
-	<div class="container">
-		<div class="col-sm-4">
-			<p class="para">CONTACT US</p>
-			<p class="para">CALL <span >+91-000-0000</span></p>
-			<p class="para">EMAIL<span>abcxyz@gmail.com</span></p>
-		</div>
-		<div class=" col-sm-4 ">
-				<p class="para" style="color:white;text-align:center;" >FOLLOW US</p>
-				<div class="social ">
-					<ul class="list-inline ">
-						<li><a href="http://facebook.com/droidtechknow" style="background: #375593"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="https://twitter.com/gulfamansari151" style="background: #0eb6f6"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="http://youtube.com/droidtechknow" style="background: #dd4b39"><i class="fa fa-youtube"></i></a></li>
-						<li><a href="#" style="background: #e32c26"><i class="fa fa-google-plus"></i></a></li>
-					</ul>
-				</div>
-				
-		</div>
-		<div class="col-sm-4">
-			<p class="para"  >NEWSLETTER</p>
-			<p class="para" >Subscribe  to our newslater to receive news and updates from our websites</p>
-			<input type="text" name="subscribe"  placeholder="Enter Email" />
-			<button type="button" class="btn btn-success">Subscribe</button>
-		</div>
-	</div>
-</div >
+        <div class="gradient-block">
+
+        </div>
+
+        <div class="row header-content">
+
+            <div class="logo">
+                <a href="index.html">Author</a>
+            </div>
+
+            <nav id="main-nav-wrap">
+                <ul class="main-navigation sf-menu">
+                    <li><a class="navHeading current" href="/"><i class="fa fa-home" style="padding-right:5px"></i>Top
+                            Stories</a></li>
+                    <li><a class="navHeading" href="/world/">world</a></li>
+                    <li><a class="navHeading" href="/india/">India</a></li>
+                    <li><a class="navHeading" href="/politics/">Politics</a></li>
+                    <li><a class="navHeading" href="/technology/">Technology</a></li>
+                    <li><a class="navHeading" href="/sports/">Sports</a></li>
+                    <li><a class="navHeading" href="/entertainment/">Entertainment</a></li>
+                    <li><a class="navHeading" href="/economy/">Economy</a></li>
+                    <li><a class="navHeading" href="/business/">Business</a></li>
+                </ul>
+            </nav> <!-- end main-nav-wrap -->
+
+            <div class="search-wrap">
+
+                <form role="search" method="get" class="search-form" action="#">
+                    <label>
+                        <span class="hide-content">Search for:</span>
+                        <input type="search" class="search-field" placeholder="Type Your Keywords" value="" name="s"
+                            title="Search for:" autocomplete="off">
+                    </label>
+                    <input type="submit" class="search-submit" value="Search">
+                </form>
+
+                <a href="#" id="close-search" class="close-btn">Close</a>
+
+            </div> <!-- end search wrap -->
+
+            <div class="triggers">
+                <a class="search-trigger" href="#"><i class="fa fa-search"></i></a>
+                <a class="menu-toggle" href="#"><span>Menu</span></a>
+            </div> <!-- end triggers -->
+
+        </div>
+
+    </header> <!-- end header -->
 
 
+    <!-- masonry
+   ================================================== -->
+    <section id="bricks">
 
-	
-<!--------------------------------
-||	JavaScript					||
----------------------------------->	
-<!--Bootstrap jQuery library -->
-<script src="/bootstrap/jquery/jquery.min.js"></script>
-<!--Bootstrap JavaScript -->
-<script src="/bootstrap/js/bootstrap.min.js"></script>
-<!--
-		<script>
-		
-		  var xhttp = new XMLHttpRequest();
-		  xhttp.onreadystatechange = function() {
-			if (this.readyState == 4 && this.status == 200) {
-			  var i;
-		  var xmlDoc = this.responseXML;
-		  var x = xmlDoc.getElementsByTagName("item");
-		  var arr= ["http://media1.s-nbcnews.com/i/newscms/2017_14/1956546/170406-world-syria-trump-rose-garden-0913_f4a4aa9002e0001281409949eb228328.jpg"
-		  ,"http://media2.s-nbcnews.com/i/newscms/2017_16/1921251/170303-sessions-0534_0_161946dd782c5884efbfb0db26a72cd7.jpg",
-		  "http://media1.s-nbcnews.com/i/newscms/2017_16/1973796/obit_erin_moran_65335-jpg-cde79_379d03749fa02ecd0d4b04b05b0064ea.jpg",
-		  "http://media2.s-nbcnews.com/i/newscms/2017_16/1973831/pencekangaroo_a2c4d35a4214ed58ec3902a58e13daab.jpg",
-		  "http://media4.s-nbcnews.com/i/newscms/2017_16/1972486/170421-marine-le-pen-rally-france-ew-1034a_aa4b377aedc310772dddf35a6186aa63.jpg",
-		  "http://media3.s-nbcnews.com/i/MSNBC/Components/Video/201704/2017-04-23T13-17-48-166Z--1280x720.jpg",
-		  "http://media3.s-nbcnews.com/i/newscms/2017_01/1776536/161031-capitol-senate-2245_ede32a8d6f1c975229585379459b248a.jpg",
-		  "http://media3.s-nbcnews.com/i/newscms/2017_16/1974156/170423-osce-car-explosion-1153a-rs_f8b1df96dc01f7bd3b668656a5fddd9a.JPG",
-		  "http://media1.s-nbcnews.com/i/newscms/2017_16/1973821/election_18c611862afb8eed43f6b4cb0b8e174e.jpg",
-		  "http://media4.s-nbcnews.com/i/newscms/2016_34/1685836/airlines_3257e1beb1c66c6ad600a40c96531def.jpg",
-		  "http://media2.s-nbcnews.com/i/newscms/2017_16/1973581/170422-cecilia-alvear-1138-sg_68a81f1dc678ffaa7ca2797a1f66acf1.jpg",
-		  "http://media2.s-nbcnews.com/i/newscms/2017_12/1942381/jcc-ejo-032317_3e076b1e8e8864bfcb39e592dad803dd.jpg",
-		  "http://media3.s-nbcnews.com/i/newscms/2017_15/1966171/170415-world-northkorea-soldiers-parade-0704_9cb003b266a34bb5012e02e681457dea.jpg",
-		  "http://media3.s-nbcnews.com/i/newscms/2017_16/1973961/170423-hash-browns-943a-rs_copy_ed98d73d198c01f74a8b9cf9f79d3c0b.jpg",
-		  "http://media4.s-nbcnews.com/i/newscms/2017_16/1973711/170422-science-march-maggie-3-539p-rs_cb1ac093eb9f19482965a725fc9a186f.jpg",
-		  "http://media2.s-nbcnews.com/i/newscms/2017_16/1970946/170420-jaguar-los-angeles-ew-935a_6d1dca4537d6d268e0e3a48a9afc03cb.jpg",
-		  "http://media1.s-nbcnews.com/i/newscms/2017_15/1966161/170415-world-northkorea-missile-submarine-0701_f5a84a50a9dc79e896b9febee485b307.jpg",
-		  "http://media1.s-nbcnews.com/i/newscms/2017_15/1966871/ss-170416-tax-day-protest-2-423p-rs_2035538aacd696abafe52451c67f6f11.JPG"];
-		  for (i = 0; i <x.length; i++) { 
-		   
-		   var title= x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-		   var des= x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue;
-		   
-		   
-		  var a= document.createElement("div");
-			a.id = 'column';
-			a.className = 'col-lg-4';
-			
-			var image=document.createElement("img");
-			image.src=arr[i];
-			image.style.height='250px';
-			image.className='img img-responsive';
-			
-		var head= document.createElement("h1");  
-		var para= document.createElement("p");       
-		  var t = document.createTextNode(title);    
-		  var d = document.createTextNode(des); 
-		  head.appendChild(t); 
-			head.className='heading';
-			para.appendChild(d);    
-			para.className='para';
-			a.appendChild(image); 
-		a.appendChild(head); 
-			
-		a.appendChild(para);  	
-		  document.getElementById("a1").appendChild(a);      
+        <div class="row masonry">
 
-		  
-		  }
-		  
-			}
-		  };
-		  xhttp.open("GET", "cd_catalog.xml", true);
-		  xhttp.send();
-		
+            <!-- brick-wrapper -->
+            <div class="bricks-wrapper">
 
-		</script>
--->
-		
+                <div class="grid-sizer"></div>
+
+                <div class="brick entry featured-grid animate-this">
+                    <div class="entry-content">
+                        <div id="featured-post-slider" class="flexslider">
+                            <ul class="slides">
+                                <?php	$xml=simplexml_load_file("http://gadgets.ndtv.com/rss/feeds.xml");
+						foreach($xml->channel->item as $item) {
+							?>
+                                <li>
+                                    <div class="featured-post-slide">
+
+                                        <div class="post-background"
+                                            style="background-image:url(<?php echo $item->storyimage; ?>);">
+                                        </div>
+
+                                        <div class="overlay"></div>
+
+                                        <div class="post-content">
+                                            <ul class="entry-meta">
+                                                <li><?php echo $item->pubDate ?></li>
+                                            </ul>
+
+                                            <h1 class="slide-title"><a href=<?php echo $item->link;?> title="">
+                                                    <?php echo $item->title; ?>
+                                                </a></h1>
+                                        </div>
+
+                                    </div>
+                                </li> <!-- /slide -->
+                                <?php } ?>
+                            </ul> <!-- end slides -->
+                        </div> <!-- end featured-post-slider -->
+                    </div> <!-- end entry content -->
+                </div>
+                <div>
+                    <?php
+						foreach($xml->channel->item as $item) 
+						{  
+							?>
+                    <article class="brick entry format-standard animate-this">
+
+                        <div class="entry-thumb">
+                            
+
+                            <a href=<?php echo $item->link;?> class="thumb-link">
+                                <img src=<?php echo $item->storyimage;?> alt="USAF rocket">
+                            </a>
+                        </div>
+
+                        <div class="entry-text">
+                            <div class="entry-header">
+
+                                <!-- <div class="entry-meta">
+                                    <span class="cat-links">
+                                        <a href="#">Design</a>
+                                        <a href="#">UI</a>
+                                    </span>
+                                </div> -->
+
+                                <h1 class="entry-title"><a href="single-standard.html"></a><?php echo $item->title; ?>
+                                </h1>
+                            </div>
+                            <div class="entry-excerpt"><?php echo preg_replace("/<\/?img( [^>]*)?>/i", "",
+                                $item->description); ?></div>
+                        </div>
+                    </article>
+                    <?php
+						} 	
+					?>
+                </div>
+
+    </section>
+
+    <footer>
+
+        <div class="footer-main">
+
+            <div class="row">
+
+                <div class="col-four tab-full mob-full footer-info">
+
+                    <h4>About Our Site</h4>
+
+                    <p>
+                        Lorem ipsum Ut velit dolor Ut labore id fugiat in ut fugiat nostrud qui in dolore commodo eu
+                        magna Duis
+                        cillum dolor officia esse mollit proident Excepteur exercitation nulla. Lorem ipsum In
+                        reprehenderit commodo
+                        aliqua irure labore.
+                    </p>
+
+                </div> <!-- end footer-info -->
+
+                <div class="col-two tab-1-3 mob-1-2 site-links">
+
+                    <h4>Site Links</h4>
+
+                    <ul>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">Terms</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+
+                </div> <!-- end site-links -->
+
+                <div class="col-two tab-1-3 mob-1-2 social-links">
+
+                    <h4>Social</h4>
+
+                    <ul>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Dribbble</a></li>
+                        <li><a href="#">Google+</a></li>
+                        <li><a href="#">Instagram</a></li>
+                    </ul>
+
+                </div> <!-- end social links -->
+
+                <div class="col-four tab-1-3 mob-full footer-subscribe">
+
+                    <h4>Subscribe</h4>
+
+                    <p>Keep yourself updated. Subscribe to our newsletter.</p>
+
+                    <div class="subscribe-form">
+
+                        <form id="mc-form" class="group" novalidate="true">
+
+                            <input type="email" value="" name="dEmail" class="email" id="mc-email"
+                                placeholder="Type &amp; press enter" required="">
+
+                            <input type="submit" name="subscribe">
+
+                            <label for="mc-email" class="subscribe-message"></label>
+
+                        </form>
+
+                    </div>
+
+                </div> <!-- end subscribe -->
+
+            </div> <!-- end row -->
+
+        </div> <!-- end footer-main -->
+
+        <div class="footer-bottom">
+            <div class="row">
+
+                <div class="col-twelve">
+                    <div class="copyright">
+                        <span>© Copyright Abstract 2016</span>
+                        <span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>
+                    </div>
+
+                    <div id="go-top">
+                        <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon icon-arrow-up"></i></a>
+                    </div>
+                </div>
+
+            </div>
+        </div> <!-- end footer-bottom -->
+
+    </footer>
+    <div id="preloader">
+        <div id="loader"></div>
+    </div>
+
+    <!-- Java Script
+   ================================================== -->
+    <script src="../js/jquery-2.1.3.min.js"></script>
+    <script src="../js/plugins.js"></script>
+    <script src="../js/jquery.appear.js"></script>
+    <script src="../js/main.js"></script>
+
 </body>
+
 </html>
+
+
