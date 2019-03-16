@@ -4,42 +4,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">	
 	<!-- Bootstrap CSS -->
-	<link rel="stylesheet" href="/24HourNews/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
 	<!--Main Css -->
-	<link rel="stylesheet" href="/24HourNews/style.css">
+	<link rel="stylesheet" href="/style.css">
 	<!--Icons -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<!--Non JavaScript Tag-->
-	<noscript>
-		JavaScript is Not Enable.
-		For full functionality of this site it is necessary to enable JavaScript.
-		Here are the <a href="http://www.enable-javascript.com/" target="_blank">
-		instructions how to enable JavaScript in your web browser</a>.
-	</noscript>
-	<style>
-	.mainBody
-	{
-		padding:50px;
-	}
-	#column
-	{
-		background-color:white;
-		padding:10px;
-		height:460px;
-		width:350px;
-		box-shadow:10px 10px 10px 15px #888888;
-		border:solid #f0ede9 10px;
-		overflow:auto;
-	}
-	@media (max-width: 768px) 
-	{
-		.mainBody
-		{
-			margin:70px;
-			padding:0px;
-		}
-	}
-	</style>
 
 </head>
 <body style="background-color: #f0ede9;">
@@ -47,7 +16,7 @@
 <div class="container header">
 	<div>
 		<div class="col-sm-2">
-			<a href="/24HourNews/"><img src="http://www.news24nepal.tv/wp-content/themes/news24desktop/images/logo.png" height="50px" style="margin-top:-15px"></img></a>
+			<a href="/"><img src="http://www.news24nepal.tv/wp-content/themes/news24desktop/images/logo.png" height="50px" style="margin-top:-15px"></img></a>
 		</div>
 		<div class="col-sm-6 header-search text-center" >
 			<form method="get" id="searchform" class="search-form" >
@@ -81,15 +50,15 @@
 		</div>
 		<div class="collapse navbar-collapse" id="smallMenu" >
 			<ul class="nav navbar-nav navbar-left">
-				<li><a  class="navHeading" href="/24HourNews/"><i class="fa fa-home" style="padding-right:5px"></i>Top Stories</a></li>
-				<li><a  class="navHeading" href="/24HourNews/world/">world</a></li>
-				<li><a  class="navHeading" href="/24HourNews/india/">India</a></li>
-				<li><a  class="navHeading" href="/24HourNews/politics/">Politics</a></li>
-				<li><a  class="navHeading" href="/24HourNews/technology/">Technology</a></li>
-				<li><a  class="navHeading" href="/24HourNews/sports/">Sports</a></li>
-				<li><a  class="navHeading" href="/24HourNews/entertainment/">Entertainment</a></li>
-				<li><a  class="navHeading" href="/24HourNews/economy/">Economy</a></li>
-				<li><a  class="navHeading" href="/24HourNews/business/">Business</a></li>
+				<li><a  class="navHeading" href="/"><i class="fa fa-home" style="padding-right:5px"></i>Top Stories</a></li>
+				<li><a  class="navHeading" href="/world/">world</a></li>
+				<li><a  class="navHeading" href="/india/">India</a></li>
+				<li><a  class="navHeading" href="/politics/">Politics</a></li>
+				<li><a  class="navHeading" href="/technology/">Technology</a></li>
+				<li><a  class="navHeading" href="/sports/">Sports</a></li>
+				<li><a  class="navHeading" href="/entertainment/">Entertainment</a></li>
+				<li><a  class="navHeading" href="/economy/">Economy</a></li>
+				<li><a  class="navHeading" href="/business/">Business</a></li>
 			</ul>
 		</div>
 	</div>
@@ -142,9 +111,9 @@
 ||	JavaScript					||
 ---------------------------------->	
 <!--Bootstrap jQuery library -->
-<script src="/24HourNews/bootstrap/jquery/jquery.min.js"></script>
+<script src="/bootstrap/jquery/jquery.min.js"></script>
 <!--Bootstrap JavaScript -->
-<script src="/24HourNews/bootstrap/js/bootstrap.min.js"></script>
+<script src="/bootstrap/js/bootstrap.min.js"></script>
 <!--
 		<script>
 		
