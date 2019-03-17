@@ -40,7 +40,6 @@
             </div> <!-- end search wrap -->
 
             <div class="triggers">
-                <a class="search-trigger" href="#"><i class="fa fa-search"></i></a>
                 <a class="menu-toggle" href="#"><span>Menu</span></a>
             </div> <!-- end triggers -->
 
