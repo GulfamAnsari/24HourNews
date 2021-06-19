@@ -1110,6 +1110,8 @@ input::-moz-focus-inner {
 	-webkit-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+	height: 230px !important;
+	width: 100% !important;
 }
 
 .bricks-wrapper .entry-thumb .thumb-link::before {
@@ -3279,9 +3281,4 @@ footer ul li {
  * ----------------------------------------------- */
 #cForm {
 	margin-top: 3.6rem;
-}
-
-.bricks-wrapper .entry-thumb .thumb-link img {
-	height: 230px !important;
-	width: 100% !important;
 }
