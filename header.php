@@ -20,7 +20,8 @@
 				<li><a  class="navHeading" href="/sports/">Sports</a></li>
 				<li><a  class="navHeading" href="/entertainment/">Entertainment</a></li>
 				<li><a  class="navHeading" href="/life-style/">Life Style</a></li>
-				<li><a  class="navHeading" href="/business/">Business</a></li>
+                <li><a  class="navHeading" href="/business/">Business</a></li>
+                <li><a  class="navHeading" href="/stock-market/">Stock Market</a></li>
                 </ul>
             </nav> <!-- end main-nav-wrap -->
 

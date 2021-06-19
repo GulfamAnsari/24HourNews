@@ -3280,3 +3280,8 @@ footer ul li {
 #cForm {
 	margin-top: 3.6rem;
 }
+
+.bricks-wrapper .entry-thumb .thumb-link img {
+	height: 230px;
+	width: 100%;
+}
