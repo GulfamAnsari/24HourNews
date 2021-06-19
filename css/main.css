@@ -3282,6 +3282,6 @@ footer ul li {
 }
 
 .bricks-wrapper .entry-thumb .thumb-link img {
-	height: 230px;
-	width: 100%;
+	height: 230px !important;
+	width: 100% !important;
 }
