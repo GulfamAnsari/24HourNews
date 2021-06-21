@@ -134,7 +134,7 @@
                             } else if(typeof(string) === 'string' && string.slice(0, 2) === '<a') {
                                 var split = string.split("</a>");
                                 var src =  /src="(.*?)"/g.exec(string)[1] || "";
-                                return { des: split[1], src };
+                                return { des: split[1] || "", src };
                             }
                         }
                         document.getElementById("newsArticle").innerHTML = htmlEle;
