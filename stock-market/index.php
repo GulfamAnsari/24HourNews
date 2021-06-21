@@ -135,6 +135,8 @@
                                 var split = string.split("</a>");
                                 var src =  /src="(.*?)"/g.exec(string)[1] || "";
                                 return { des: split[1] || "", src };
+                            } else {
+                                return { des: string || "", src: "" };
                             }
                         }
                         document.getElementById("newsArticle").innerHTML = htmlEle;
