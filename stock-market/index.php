@@ -120,7 +120,7 @@
                                         </h1></a>
                                     </div>
                                     <div class="entry-excerpt">
-                                        ${getImageDes(n.description).des || ""}
+                                        ${n && n.description ? getImageDes(n.description).des || "": ""}
                                     </div>
                                 </div>
                             </article>`
